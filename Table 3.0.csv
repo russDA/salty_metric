@@ -1,0 +1,1989 @@
+,Ingredient,Vol(mL),Mass(g)
+0,'00' Pizza Flour,236.55,116.0
+1,All-Purpose Flour,236.55,120.0
+2,Almond Flour,236.55,96.0
+3,Almond meal,236.55,84.0
+4,Almond paste (packed),236.55,259.0
+5,Almonds (sliced),118.275,43.0
+6,Almonds (slivered),118.275,57.0
+7,"Almonds, whole (unblanched)",236.55,142.0
+8,Amaranth flour,236.55,103.0
+9,Apple juice concentrate,59.1375,70.0
+10,"Apples (dried, diced)",236.55,85.0
+11,"Apples (peeled, sliced)",236.55,113.0
+12,Applesauce,236.55,255.0
+13,"Apricots (dried, diced)",118.275,64.0
+14,Artisan Bread Flour,236.55,120.0
+15,Artisan Bread Topping,59.1375,43.0
+16,Baker's Cinnamon Filling,236.55,152.0
+17,Baker's Fruit Blend,236.55,128.0
+18,"Baker's Special Sugar (superfine sugar, castor sugar)",236.55,190.0
+19,Baking powder,4.9281250000000005,4.0
+20,Baking soda,2.4640625000000003,3.0
+21,Baking Sugar Alternative,236.55,170.0
+22,Bananas (mashed),236.55,227.0
+23,Barley (cooked),236.55,215.0
+24,Barley (pearled),236.55,213.0
+25,Barley flakes,118.275,46.0
+26,Barley flour,236.55,85.0
+27,Barley malt syrup,29.56875,42.0
+28,Basil pesto,29.56875,28.0
+29,Bell peppers (fresh),236.55,142.0
+30,Berries (frozen),236.55,142.0
+31,Better Cheddar Cheese Powder,118.275,57.0
+32,Blueberries (dried),236.55,156.0
+33,Blueberries (fresh or frozen),236.55,147.0
+34,Blueberry juice,236.55,241.0
+35,Boiled cider,59.1375,85.0
+36,Bran cereal,236.55,60.0
+37,Bread crumbs (dried),59.1375,28.0
+38,Bread crumbs (fresh),59.1375,21.0
+39,Bread crumbs (Japanese Panko),236.55,50.0
+40,Bread Flour,236.55,120.0
+41,Brown rice (cooked),236.55,170.0
+42,Brown rice flour,236.55,128.0
+43,"Brown sugar (dark or light, packed)",236.55,213.0
+44,Buckwheat (whole),236.55,170.0
+45,Buckwheat Flour,236.55,120.0
+46,Bulgur,236.55,152.0
+47,Butter,118.275,113.0
+48,Buttermilk,236.55,227.0
+49,Buttermilk powder,29.56875,18.0
+50,Cacao nibs,236.55,120.0
+51,Cake Enhancer,29.56875,14.0
+52,Candied peel,118.275,85.0
+53,"Caramel (14-16 individual pieces, 1"" squares)",118.275,142.0
+54,Caramel bits (chopped Heath or toffee),236.55,156.0
+55,Caraway seeds,29.56875,18.0
+56,Carrots (cooked and puréed),118.275,128.0
+57,Carrots (diced),236.55,142.0
+58,Carrots (grated),236.55,99.0
+59,Cashews (chopped),236.55,113.0
+60,Cashews (whole),236.55,113.0
+61,Celery (diced),236.55,142.0
+62,Cheese (Feta),118.275,57.0
+63,"Cheese (grated cheddar, jack, mozzarella, or Swiss)",236.55,113.0
+64,Cheese (grated Parmesan),118.275,50.0
+65,Cheese (Ricotta),236.55,227.0
+66,Cherries (candied),59.1375,50.0
+67,Cherries (dried),118.275,71.0
+68,"Cherries (fresh, pitted, chopped)",118.275,80.0
+69,Cherries (frozen),236.55,113.0
+70,Cherry Concentrate,29.56875,42.0
+71,Chickpea flour,236.55,85.0
+72,Chives (fresh),118.275,21.0
+73,Chocolate (chopped),236.55,170.0
+74,Chocolate Chips,236.55,170.0
+75,Chocolate Chunks,236.55,170.0
+76,Cinnamon Sweet Bits,236.55,140.0
+77,Cinnamon-Sugar,59.1375,50.0
+78,Cocoa (unsweetened),118.275,42.0
+79,"Coconut (sweetened, shredded)",236.55,85.0
+80,Coconut (toasted),236.55,85.0
+81,"Coconut (unsweetened, desiccated)",236.55,85.0
+82,"Coconut (unsweetened, large flakes)",236.55,60.0
+83,"Coconut (unsweetened, shredded)",236.55,53.0
+84,Coconut Flour,236.55,128.0
+85,"Coconut milk; canned, well shaken",236.55,241.0
+86,Coconut Milk Powder,118.275,57.0
+87,Coconut oil,118.275,113.0
+88,Coconut sugar,118.275,77.0
+89,Confectioners' sugar (unsifted),473.1,227.0
+90,Cookie crumbs,236.55,85.0
+91,Corn (popped),946.2,21.0
+92,Corn syrup,236.55,312.0
+93,Cornmeal (whole),236.55,138.0
+94,"Cornmeal (yellow, Quaker)",236.55,156.0
+95,Cornstarch,59.1375,28.0
+96,Cracked wheat,236.55,149.0
+97,Cranberries (dried),118.275,57.0
+98,Cranberries (fresh or frozen),236.55,99.0
+99,"Cream (heavy cream, light cream, or half & half)",236.55,227.0
+100,Cream cheese,236.55,227.0
+101,Cream of coconut,118.275,142.0
+102,Crystallized ginger,118.275,92.0
+103,Currants,236.55,142.0
+104,Dates (chopped),236.55,149.0
+105,Demerara sugar,236.55,220.0
+106,Dried Blueberry Powder,59.1375,28.0
+107,Dried milk (Baker's Special Dry Milk),59.1375,28.0
+108,Dried nonfat milk (powdered),59.1375,28.0
+109,Dried potato flakes (instant mashed potatoes),118.275,43.0
+110,Dried whole milk (powdered),118.275,50.0
+111,Durum Flour,236.55,124.0
+112,Easy Roll Dough Improver,29.56875,18.0
+113,Egg (fresh),-1.0,50.0
+114,Egg white (fresh),-1.0,35.0
+115,Egg whites (dried),29.56875,11.0
+116,Egg yolk (fresh),-1.0,14.0
+117,Espresso Powder,14.784375,7.0
+118,Everything Bagel Topping,59.1375,35.0
+119,"Figs (dried, chopped)",236.55,149.0
+120,First Clear Flour,236.55,106.0
+121,Flax meal,118.275,50.0
+122,Flaxseed,59.1375,35.0
+123,French-Style Flour,236.55,120.0
+124,Fruitcake Fruit Blend,236.55,120.0
+125,"Garlic (cloves, in skin for roasting)",-1.0,113.0
+126,Garlic (minced),29.56875,28.0
+127,Garlic (peeled and sliced),236.55,149.0
+128,"Ginger (fresh, sliced)",59.1375,57.0
+129,Gluten-Free All-Purpose Baking Mix,236.55,120.0
+130,Gluten-Free All-Purpose Flour,236.55,156.0
+131,Gluten-Free Measure for Measure Flour,236.55,120.0
+132,Gluten-Free sourdough starter,236.55,238.35
+133,Graham cracker crumbs (boxed),236.55,99.0
+134,Graham crackers (crushed),236.55,142.0
+135,Granola,236.55,113.0
+136,Grape Nuts,118.275,57.0
+137,Harvest Grains Blend,118.275,74.0
+138,Hazelnut flour,236.55,89.0
+139,Hazelnut Praline Paste,118.275,156.0
+140,Hazelnut spread,118.275,160.0
+141,Hazelnuts (whole),236.55,142.0
+142,Hi-Maize Natural Fiber,59.1375,32.0
+143,High-Gluten Flour,236.55,120.0
+144,Honey,14.784375,21.0
+145,Instant ClearJel,14.784375,11.0
+146,Irish-Style Flour,236.55,110.0
+147,Italian-Style Flour,236.55,106.0
+148,Jam or preserves,59.1375,85.0
+149,Jammy Bits,236.55,184.0
+150,Keto Wheat Flour,236.55,120.0
+151,Key Lime Juice,236.55,227.0
+152,Lard,118.275,113.0
+153,Leeks (diced),236.55,92.0
+154,Lemon Juice Powder,29.56875,18.0
+155,Lime Juice Powder,29.56875,18.0
+156,Macadamia nuts (whole),236.55,149.0
+157,Malt syrup,29.56875,43.0
+158,Malted Milk Powder,59.1375,35.0
+159,Malted Wheat Flakes,118.275,64.0
+160,Maple sugar,118.275,78.0
+161,Maple syrup,118.275,156.0
+162,Marshmallow crème,236.55,85.0
+163,Marshmallow Fluff®,236.55,128.0
+164,Marshmallows (mini),236.55,43.0
+165,Marzipan,236.55,290.0
+166,Masa Harina,236.55,93.0
+167,Mascarpone cheese,236.55,227.0
+168,Mashed potatoes,236.55,213.0
+169,Mashed sweet potatoes,236.55,240.0
+170,Mayonnaise,118.275,113.0
+171,Medium Rye Flour,236.55,106.0
+172,Meringue powder,59.1375,43.0
+173,Milk (evaporated),118.275,113.0
+174,Milk (fresh),236.55,227.0
+175,Millet (whole),118.275,103.0
+176,Mini chocolate chips,236.55,177.0
+177,Molasses,59.1375,85.0
+178,Mushrooms (sliced),236.55,78.0
+179,Non-Diastatic Malt Powder,29.56875,18.0
+180,Oat bran,118.275,53.0
+181,Oat flour,236.55,92.0
+182,Oats (old-fashioned or quick-cooking),236.55,89.0
+183,Olive oil,59.1375,50.0
+184,Olives (sliced),236.55,142.0
+185,"Onions (fresh, diced)",236.55,142.0
+186,Paleo Baking Flour,236.55,104.0
+187,Palm shortening,59.1375,45.0
+188,Passion fruit purée ,78.85,60.0
+189,Pasta Flour Blend,236.55,145.0
+190,Pastry Flour,236.55,106.0
+191,Pastry Flour Blend,236.55,113.0
+192,Peaches (peeled and diced),236.55,170.0
+193,Peanut butter,118.275,135.0
+194,"Peanuts (whole, shelled)",236.55,142.0
+195,Pears (peeled and diced),236.55,163.0
+196,Pecan Meal,236.55,80.0
+197,Pecans (diced),118.275,57.0
+198,Pie Filling Enhancer,59.1375,46.0
+199,Pine nuts,118.275,71.0
+200,"Pineapple (crushed, drained)",236.55,256.0
+201,Pineapple (dried),118.275,71.0
+202,"Pineapple (fresh or canned, diced)",236.55,170.0
+203,Pistachio nuts (shelled),118.275,60.0
+204,Pistachio Paste,59.1375,78.0
+205,Pizza Dough Flavor,29.56875,12.0
+206,Pizza Flour Blend,236.55,124.0
+207,Pizza sauce,59.1375,57.0
+208,Polenta (coarse ground cornmeal),236.55,163.0
+209,Poppy seeds,29.56875,18.0
+210,Potato Flour,59.1375,46.0
+211,Potato starch,236.55,152.0
+212,Pumpernickel Flour,236.55,106.0
+213,Pumpkin purée ,236.55,227.0
+214,Quinoa (cooked),236.55,184.0
+215,Quinoa (whole),236.55,177.0
+216,Quinoa flour,236.55,110.0
+217,Raisins (loose),236.55,149.0
+218,Raisins (packed),118.275,85.0
+219,Raspberries (fresh),236.55,120.0
+220,"Rhubarb (sliced, 1/2"" slices)",236.55,120.0
+221,"Rice (long grain, dry)",118.275,99.0
+222,Rice flour (white),236.55,142.0
+223,Rice Krispies,236.55,28.0
+224,Rye Bread Improver,29.56875,14.0
+225,Rye Chops,236.55,120.0
+226,Rye flakes,236.55,124.0
+227,Rye Flour Blend,236.55,106.0
+228,"Salt (Kosher, Diamond Crystal)",14.784375,8.0
+229,"Salt (Kosher, Morton's)",14.784375,16.0
+230,Salt (table),14.784375,18.0
+231,Scallions (sliced),236.55,64.0
+232,Self-Rising Flour,236.55,113.0
+233,Semolina Flour,236.55,163.0
+234,Sesame seeds,118.275,71.0
+235,Shallots (peeled and sliced),236.55,156.0
+236,Six-Grain Blend,236.55,128.0
+237,Snow White Non-Melting Topping Sugar,118.275,57.0
+238,Sorghum flour,236.55,138.0
+239,Sour cream,236.55,227.0
+240,Sourdough starter,236.55,238.35
+241,Soy flour,59.1375,35.0
+242,Sparkling Sugar,59.1375,57.0
+243,Spelt Flour,236.55,99.0
+244,Sprouted Wheat Flour,236.55,113.0
+245,Steel cut oats,118.275,70.0
+246,Sticky Bun Sugar,236.55,99.0
+247,Strawberries (fresh sliced),236.55,167.0
+248,Sugar (granulated white),236.55,198.0
+249,Sugar substitute (Splenda),236.55,25.0
+250,Sundried tomatoes (dry pack),236.55,170.0
+251,Sunflower seeds,59.1375,35.0
+252,Super 10 Blend,236.55,106.0
+253,Sweet Ground Chocolate and Cocoa Blend,59.1375,28.0
+254,Sweetened condensed milk,59.1375,78.0
+255,Tahini paste,118.275,128.0
+256,Tapioca starch or flour,236.55,113.0
+257,Tapioca (quick cooking),29.56875,21.0
+258,Teff flour,236.55,135.0
+259,The Works Bread Topping,59.1375,35.0
+260,Toasted Almond Flour,236.55,96.0
+261,Toffee chunks,236.55,156.0
+262,Tomato paste,29.56875,29.0
+263,Tropical Fruit Blend,236.55,134.4
+264,Turbinado sugar (raw),236.55,180.0
+265,Unbleached Cake Flour,236.55,120.0
+266,Vanilla Extract ,14.784375,14.0
+267,Vegetable oil,236.55,198.0
+268,Vegetable shortening,59.1375,46.0
+269,Vital Wheat Gluten,29.56875,18.0
+270,Walnuts (chopped),236.55,113.0
+271,Walnuts (whole),118.275,64.0
+272,Water,236.55,227.0
+273,Wheat berries (red),236.55,184.0
+274,Wheat bran,118.275,32.0
+275,Wheat germ,59.1375,28.0
+276,White Chocolate Chips,236.55,170.0
+277,White Rye Flour,236.55,106.0
+278,White Whole Wheat Flour,236.55,113.0
+279,Whole Grain Flour Blend,236.55,113.0
+280,Whole Wheat Flour (Premium 100%),236.55,113.0
+281,Whole Wheat Pastry Flour / Graham Flour,236.55,96.0
+282,Yeast (instant),9.85625,6.0
+283,Yeast (instant),-1.0,7.0
+284,Yeast (instant),14.784375,9.0
+285,Yogurt,236.55,227.0
+286,Zucchini (shredded),236.55,127.05
+287,Water (pure),10.0,10.0
+288,Brown sugar,12.15,10.0
+289,Granulated sugar,11.78,10.0
+290,Powdered sugar,19.57,10.0
+291,Raw cane sugar,10.41,10.0
+292,Honey,7.04,10.0
+293,Maple syrup,7.58,10.0
+294,Stevia,22.57,10.0
+295,All-purpose flour,18.9,10.0
+296,Almond flour,24.63,10.0
+297,Bread flour,18.18,10.0
+298,Cake flour,20.75,10.0
+299,Pastry flour,22.32,10.0
+300,Whole wheat flour,20.92,10.0
+301,Baking powder,11.11,10.0
+302,Baking soda,14.51,10.0
+0,"Acetaminohen Powder, Unmilled",1.0,0.688794
+1,"Acetylene Black, 100% Compressed",1.0,0.560646
+2,Acetylsalicyic Acid,1.0,0.320369
+3,Acrylamide,1.0,0.54463
+4,"Acrylic Granules, Coarse",1.0,0.64
+5,"Acrylic Granules, Fine",1.0,0.58
+6,Acrylonitrile Butadien Styrene (Abs) Resin,1.0,0.8
+7,Acrylonitrile Butadiene Styrene (Abs) Granules,1.0,0.58
+8,Activated Alumina,1.0,0.68
+9,Activated Carbon,1.0,0.52
+10,Actylene Black,1.0,0.73
+11,Aero Xanthates,1.0,1.8
+12,Aerolyte,1.0,0.82
+13,"Aerosil, Fumed Silica",1.0,0.51
+14,"Aerosil, Silicon Dioxide",1.0,0.48
+15,Alaluren,1.0,1.79
+16,Ale Cider Drink Mix,1.0,0.51
+17,Ale Powder,1.0,0.98
+18,"Ales ,Dehydrated",1.0,1.31
+19,Alinoc,1.0,1.28
+20,"Alkyd Resin, Flaked",1.0,0.8
+21,All Plant Protein Powder,1.0,0.73
+22,Allumina Powder,1.0,0.8
+23,Almond & Pecan Blend,1.0,0.88
+24,Almond Flour,1.0,1.09
+25,Almonds,1.0,0.78
+26,"Almonds, Blanched",1.0,0.67
+27,"Almonds, Blanched & Sliced",1.0,0.44
+28,Alum Pigment,1.0,0.8
+29,Alumia Trihyrate,1.0,0.51
+30,Alumina Hydrate,1.0,1.09
+31,"Alumina Hydrate, Coarse",1.0,0.96
+32,Alumina Oxide Powder,1.0,0.27
+33,Alumina Powder,1.0,0.24
+34,Alumina Silica,1.0,0.77
+35,Alumina Trihydrate,1.0,0.83
+36,"Alumina, Ceramic Powder",1.0,0.96
+37,"Alumina, Wet Scrubber Mud",1.0,0.96
+38,Aluminates Mix,1.0,0.24
+39,Aluminium Hydroxide,1.0,1.46
+40,Aluminum Chlor-Hydrate,1.0,0.004
+41,Aluminum Dross,1.0,0.46
+42,Aluminum Flux,1.0,0.84
+43,Aluminum Hydroxide,1.0,0.42
+44,Aluminum Oxide,1.0,0.58
+45,Aluminum Silicate,1.0,0.5
+46,Aluminum Sulfate Granules,1.0,0.93
+47,Aluminum Trihydrate,1.0,0.68
+48,Amberlite,1.0,0.320369
+49,Ameraffin Wax,1.0,0.35
+50,Amerinc-Ferrosillcon,1.0,0.37
+51,Ammonium Bicarbonate,1.0,0.15
+52,Ammonium Carbonate,1.0,0.74
+53,Ammonium Chloride,1.0,0.21
+54,Ammonium Molybdate,1.0,0.43
+55,Ammonium Nitrate,1.0,0.54463
+56,Ammonium Sulfate,1.0,1.11
+57,"Ammonium Sulfate, Fertilizer",1.0,0.4
+58,Amonia Nitrate,1.0,0.8
+59,Amonium Dimolybdate,1.0,0.48
+60,Amorhous Silica Fume,1.0,0.53
+61,Anhydorous Aluminum Silicate Clay,1.0,0.48
+62,Anhydrous Sodium Sulfate,1.0,0.64
+63,"Animal Feed, Dry Blend",1.0,0.96
+64,"Annatto Seed, Oil Soaked",1.0,0.54463
+65,"Annatto Seed, Water Soaked",1.0,0.9
+66,Apple Bits,1.0,1.19
+67,Apple Cider Drink Mix,1.0,0.9
+68,Apple Cinnamon Crunch,1.0,0.86
+69,Apple Glaze,1.0,0.43
+70,Aqualon Cellulose Gum,1.0,0.35
+71,Aquarium Gravel,1.0,1.04
+72,Arabic Gum,1.0,0.54
+73,"Arael, Unpelletized",1.0,1.06
+74,Araformaldehyde,1.0,0.560646
+75,Arbocel,1.0,0.88
+76,Arika,1.0,0.26
+77,Aromatic Carboxylic Anhydride,1.0,0.4
+78,Artifical Vanilla,1.0,1.2
+79,Asbestos,1.0,0.48
+80,Ashalt,1.0,1.65
+81,Ashalt Base,1.0,0.8
+82,Aspertame,1.0,0.62
+83,Aspirin Granulation,1.0,0.54463
+84,Atomite,1.0,0.688794
+85,Atomite And Vinyl Resin,1.0,0.74
+86,Atrazine,1.0,0.67
+87,Attaclay,1.0,0.46
+88,Attapulgite Clay,1.0,0.42
+89,Augratin Seasoning,1.0,0.67
+90,Azdel Regrind,1.0,0.47
+91,"Azdel, Black Plastic Regrind",1.0,0.47
+92,Baby Food,1.0,0.44
+93,Baby Powder,1.0,0.46
+94,Bacon Bits,1.0,1.27
+95,Bacon Bits,1.0,0.72
+96,Bacon Bits & Flour,1.0,0.42
+97,Bacon Stris,1.0,0.16
+98,Baghouse Dust,1.0,0.98
+99,Baghouse Dust From Glass Furnace,1.0,2.32
+100,Bakelite,1.0,2.24
+101,Bakery Mix,1.0,0.42
+102,Baking Soda Silica,1.0,0.47
+103,"Ball Clary, Hydrous Aluminum Silicate",1.0,0.43
+104,Ball Clay,1.0,0.560646
+105,Banana Flakes,1.0,0.46
+106,Barbecue Seasoning Blend,1.0,0.86
+107,Barex,1.0,0.91
+108,Barium Ferrite,1.0,0.560646
+109,Barium Monohydrate,1.0,0.61
+110,Barium Oxide,1.0,0.8
+111,Barley,1.0,1.15
+112,Barley Bits,1.0,0.26
+113,Barley Flour,1.0,0.46
+114,Barytes,1.0,0.5
+115,Basic Coer Carbonate,1.0,0.75
+116,Basing Cement,1.0,0.67
+117,Bath Soap Pellets,1.0,0.35
+118,Batter Mix,1.0,1.12
+119,Bauxite,1.0,1.12
+120,"Bauxite Cereal Binder, Dry",1.0,0.560646
+121,"Bauxite Cereal Binder, Wet",1.0,0.560646
+122,Beans,1.0,0.560646
+123,"Bedding Material, Small Wooden Chips",1.0,0.48
+124,"Beef Liver, Dried",1.0,0.48
+125,Beef Powder,1.0,0.64
+126,Beef Seasoning,1.0,0.61
+127,Beets,1.0,0.53
+128,Belt Press Cake,1.0,0.27
+129,Bentinite Clay,1.0,0.88
+130,Bentonite,1.0,0.76
+131,Bentonite Clay,1.0,0.45
+132,Bentonite Kitty Litter,1.0,0.54463
+133,Benzion,1.0,0.55
+134,Beta Chip,1.0,0.23
+135,Beta Nepthol,1.0,0.9
+136,Biosolids Organic Nitrogen Fertilizer,1.0,0.91
+137,Biowaste,1.0,0.8
+138,Bisphenol,1.0,0.5
+139,"Bisphenol, Flakes",1.0,0.48
+140,"Bisphenol, Prills",1.0,0.91
+141,Black & White Pepper,1.0,0.43
+142,Black Eye Beans,1.0,0.560646
+143,Blanched Clams,1.0,0.560646
+144,Blast Furnace Dust,1.0,0.75
+145,"Bleaching Clay, Absorbant",1.0,0.72
+146,Blended Cathode Powder,1.0,0.1
+147,"Blended Powder, Polypropolene",1.0,0.86
+148,Blue Berry Pebbles,1.0,0.74
+149,Blue Desiccant,1.0,0.86
+150,Blue Pigment,1.0,1.01
+151,Blueberry Bits,1.0,0.26
+152,Bold Party Mix Seasoning,1.0,0.64
+153,Bolomite Dust,1.0,0.64
+154,Bone Dust,1.0,0.8
+155,"Bone Meal, Dry",1.0,0.61
+156,Borax,1.0,1.3
+157,Borax Pentahydrate,1.0,0.8
+158,Boric Acid,1.0,0.94
+159,Boric Acid And Soda Ash,1.0,0.5
+160,Boric Acid Powder,1.0,0.77
+161,Boron Carbide,1.0,0.95
+162,Bovine Plasms,1.0,0.59
+163,Brake Lining Mix,1.0,0.42
+164,Bread Crumbs,1.0,0.38
+165,"Breading, Flour",1.0,0.51
+166,Brewers Yeast,1.0,0.47
+167,Broccoli,1.0,0.58
+168,Broic Acid,1.0,0.51
+169,Brown Buff Pigment,1.0,0.8
+170,Brown Rice Flour,1.0,0.33
+171,Brown Sugar,1.0,0.93
+172,Brown Whey Powder,1.0,0.34
+173,Buffalo Chicken Per-Dust,1.0,0.320369
+174,Bulk Pulp Citrus Cells,1.0,0.320369
+175,Burgess Clay,1.0,0.37
+176,Butadiene Styrene Copolymers,1.0,0.4
+177,Butter Toffee Candy,1.0,0.4
+178,Butyl Phenol,1.0,0.4
+179,"Butyl Phenol, Resin",1.0,0.43
+180,Cadium Bearing Zinc Oxide Dust,1.0,0.26
+181,Caffeinated Coffee Grounds,1.0,0.53
+182,Caffeine,1.0,0.49
+183,Cake Flour,1.0,0.53
+184,"Cake Mix, German Chocolate",1.0,0.64
+185,"Cake Mix, With Shortening",1.0,0.14
+186,Calcified Food Base,1.0,0.48
+187,Calcinated Kaolin Clay,1.0,2.45
+188,Calcined Alumina,1.0,0.8
+189,"Calcined Alumina, Aluminum Oxide Cerium Oxide",1.0,0.47
+190,Calcined Bauxite,1.0,0.64
+191,Calcined Flint,1.0,1.35
+192,Calcined Kaolin Clay,1.0,0.36
+193,Calcined Petroleum Coke,1.0,0.58
+194,Calcium,1.0,1.43
+195,Calcium Ascorbate,1.0,3.6
+196,Calcium Carbide,1.0,0.4
+197,Calcium Carboante Slurry,1.0,0.004
+198,Calcium Carbonate,1.0,0.75
+199,Calcium Carbonate Slurry,1.0,0.58
+200,"Calcium Carbonate, Atomite",1.0,0.560646
+201,"Calcium Carbonate, Georgia Marble Gamasperse",1.0,0.54463
+202,Calcium Chloride,1.0,0.78
+203,"Calcium Chloride, Crude",1.0,0.7
+204,Calcium Cilicate,1.0,1.19
+205,Calcium Cyanamid,1.0,1.2
+206,Calcium Dical Phosphate,1.0,1.06
+207,Calcium Gluconate,1.0,0.66
+208,Calcium Halophosphate,1.0,0.85
+209,Calcium Hydroxide,1.0,0.54463
+210,"Calcium Hydroxide, Dust",1.0,0.688794
+211,"Calcium Hydroxide, Fines",1.0,0.560646
+212,"Calcium Hydrozide, Lime",1.0,0.320369
+213,Calcium Iodate,1.0,0.83
+214,Calcium Lactate,1.0,0.29
+215,Calcium Oxide,1.0,0.93
+216,Calcium Roionate,1.0,0.6
+217,Calcium Silicon,1.0,0.48
+218,Calcium Stearate,1.0,0.83
+219,Calcium Zinc Stearate,1.0,0.86
+220,Candy Coated Chocolate Drops,1.0,0.95
+221,Candy Sprinkles,1.0,0.96
+222,Cane Sugar,1.0,0.49
+223,"Captan, Fungicide",1.0,0.37
+224,Car Wash Detergent,1.0,0.25
+225,Caramel Nut Seasoning With Salt,1.0,0.27
+226,Caraway,1.0,0.2
+227,Caraway Seeds,1.0,0.8
+228,Carbon,1.0,0.48
+229,Carbon Black,1.0,1.12
+230,"Carbon Black, Crushed",1.0,0.320369
+231,"Carbon Black, Flakes",1.0,1.47
+232,Carbon Dust,1.0,0.77
+233,Carbon Fiber,1.0,0.09
+234,"Carbon Fiber, Wet",1.0,0.560646
+235,Carbon Graphite,1.0,0.82
+236,Carbon Graphite Powder,1.0,0.67
+237,"Carbon, Calcined Petroleum Coke",1.0,0.23
+238,Carbonized Paper,1.0,0.96
+239,Carborundum,1.0,0.48
+240,Carbose Cmc,1.0,0.61
+241,Cardio Aid Phytosterols,1.0,0.62
+242,Carpet And Room Deodorizer,1.0,0.58
+243,Carpet Conditioner,1.0,0.52
+244,Carrageenan,1.0,0.64
+245,Carrots,1.0,0.42
+246,Casein Glue,1.0,0.51
+247,Castor Wax Flakes,1.0,0.1
+248,Cat Litter,1.0,0.7
+249,Cat Litter Deodorant,1.0,0.58
+250,Catechol,1.0,0.51
+251,Cathode Mix,1.0,3.14
+252,Cattle Feed,1.0,0.83
+253,"Caustic Potash, Dry",1.0,0.75
+254,Caustic Soda Beads,1.0,0.74
+255,Celatom,1.0,0.58
+256,Celaton Floor Dry,1.0,1.04
+257,Celery,1.0,0.5
+258,Cellulose,1.0,4.16
+259,Cellulose & Reduced Iron Mixture,1.0,1.04
+260,Cellulose Acatate-Butyrate,1.0,1.01
+261,Cellulose Arbocel B 800,1.0,1.09
+262,Cellulose Gum,1.0,0.91
+263,Cellulose Powder,1.0,0.78
+264,"Cellulose, Solka Floc",1.0,2.8
+265,Celogen,1.0,0.74
+266,"Celogen, Blowing Agent",1.0,0.78
+267,Cement,1.0,0.6
+268,Cement Based Waterproof Coating,1.0,0.7
+269,Cement Dust,1.0,1.01
+270,Cement Powder,1.0,0.8
+271,Cenosheres,1.0,0.7
+272,"Century Whey, Bi Pro Isolate",1.0,1.2
+273,Ceramic Beads,1.0,1.12
+274,"Ceramic Beads Powder, Drier Discharge",1.0,0.64
+275,Ceramic Beas,1.0,0.54463
+276,Ceramic Frit,1.0,0.96
+277,Ceramic Material,1.0,0.8
+278,Ceramic Triangle Stones,1.0,0.45
+279,Cereal,1.0,0.82
+280,Cereal Pellets,1.0,0.88
+281,Cerium Carbonate,1.0,0.51
+282,Cerium Oxide,1.0,0.64
+283,Charcoal,1.0,0.560646
+284,Charcoal Chips,1.0,0.29
+285,"Charcoal, Ground",1.0,0.59
+286,Cheddar Cheese,1.0,0.688794
+287,Cheddar Seasoning,1.0,0.688794
+288,Cheese & Shortening,1.0,0.72
+289,Cheese Flour Mix,1.0,0.61
+290,Cheese Mix,1.0,0.64
+291,Cheese Powder,1.0,0.64
+292,"Cheese, Fine Ground Parmesan",1.0,0.61
+293,"Cheese, Grated",1.0,0.560646
+294,"Cheese, Grated",1.0,0.64
+295,Cheesecake Crumb,1.0,0.43
+296,Chesse Powder Blend,1.0,0.45
+297,Chestnut Extract Powder,1.0,0.42
+298,Chewing Gum Base,1.0,1.94
+299,Chi Wood,1.0,1.84
+300,Chicken Bouillon,1.0,0.85
+301,"Chicken Embryos, In Shell",1.0,0.67
+302,Chicken Flavored Soup Base,1.0,0.560646
+303,Chicken Gravy Mix,1.0,0.8
+304,Chicken Seasoning,1.0,0.8
+305,Chicken Soup With Noodles,1.0,0.51
+306,"Chile Pods, Dried",1.0,0.59
+307,China Clay,1.0,0.78
+308,"Chinese Bauxite, Calcined",1.0,0.67
+309,Chlorinated Trisodium Phosphate,1.0,0.67
+310,Chlorine,1.0,0.66
+311,Chlorine,1.0,0.54463
+312,Chlorine Based Detergent,1.0,0.54
+313,Chocolate,1.0,0.64
+314,"Chocolate Chipsm, Mini",1.0,0.19
+315,Chocolate Pudding Dry Mix,1.0,0.48
+316,Chocolate Volcano Cake Base,1.0,0.48
+317,"Chopped Copper Wire, Coarse",1.0,0.24
+318,"Chopped Copper Wire, Fine",1.0,0.24
+319,Chopped Ethafoam,1.0,0.51
+320,Chopped Glass Fibers,1.0,4.81
+321,Chopped Hd Polyethylene,1.0,0.83
+322,"Chopped Hd Polyethylene (Recycled, Flake-Like)",1.0,1.28
+323,Chopped Nuts,1.0,0.18
+324,Chopped Peanuts,1.0,0.560646
+325,Chopped Polyroylene Fibers,1.0,0.46
+326,Chopped Thread,1.0,0.48
+327,Chopped Tobacco,1.0,0.19
+328,Chopped Walnuts,1.0,0.48
+329,"Chopped Wire – Copper, Aluminum, And Insulation",1.0,0.66
+330,Chopped Wire With Filler,1.0,0.66
+331,Chrome Trioxide,1.0,0.74
+332,Chrome Yellow Medium,1.0,0.55
+333,Chunk Cheese,1.0,0.688794
+334,Chunk Chocolate,1.0,0.64
+335,Cinnamon,1.0,0.64
+336,Cinnamon & Sugar Mixture,1.0,0.75
+337,Cinnamon Bark,1.0,0.8
+338,Cinnamon Chips,1.0,0.8
+339,"Cinnamon Chips, Bark",1.0,0.27
+340,Cinnamon Flour With Raisins Mix,1.0,0.66
+341,Cinnamon Granola,1.0,0.4
+342,Cinnamon / Sugar Mix,1.0,0.72
+343,Citric Acid,1.0,0.91
+344,"Citric Acid, Anhydrous",1.0,0.688794
+345,"Clarion, Bleaching Earth",1.0,0.85
+346,"Clary, Kaolin – Thiele Rc-32",1.0,0.560646
+347,Clay,1.0,0.82
+348,Clay Mixture,1.0,0.46
+349,Clay Powder,1.0,0.46
+350,"Clay, 1% Moisture",1.0,0.61
+351,"Clay, Kaolin",1.0,0.7
+352,"Clay, Novacite #200",1.0,0.6
+353,"Clay, Pyrophyllite",1.0,0.58
+354,"Clay, Snobrite Kaolin",1.0,0.54463
+355,Coal,1.0,0.88
+356,Coal Sample,1.0,0.51
+357,"Coal, 1/4″ Screened",1.0,0.96
+358,Cobalt Acetate (24%),1.0,0.95
+359,Cobalt Manganese Oxide,1.0,0.48
+360,Cobalt Nitrate,1.0,4.0
+361,"Cobalt Powder, Extra Fine",1.0,0.63
+362,Cocoa,1.0,0.83
+363,Cocoa Beans (Shell & Nib),1.0,0.08
+364,Cocoa (Vending Mix),1.0,0.560646
+365,Cocoa Beans (Raw),1.0,0.53
+366,"Cocoa Beans, Whole In Shells",1.0,0.51
+367,Cocoa Mixture,1.0,0.79
+368,Cocoa Nibs,1.0,0.86
+369,Cocoa Powder,1.0,0.8
+370,Cocoa Powder 10/12%,1.0,0.54463
+371,Cocoa/Powdered Sugar,1.0,0.64
+372,Coconut,1.0,0.67
+373,Coconut Base Actvated Carbon,1.0,0.48
+374,Coconut Chips,1.0,0.51
+375,Coconut Chips W/ Candy Pellets,1.0,0.59
+376,Coconut Crunch Doughnut Topping,1.0,0.560646
+377,Coconut Fibers (Coir),1.0,1.28
+378,Coconut Flakes,1.0,1.01
+379,Coconut Monoethanolamide,1.0,0.4
+380,"Coconut, Macaroon",1.0,0.98
+381,Coer Hthalocyanne Blue Crude (Dry),1.0,1.08
+382,Coer Hthalocyanne Blue Crude (Wet),1.0,0.93
+383,Coer Recipitate,1.0,0.45
+384,Coer Scrap,1.0,0.64
+385,Coffee (Decaf),1.0,0.54463
+386,Coffee Beans,1.0,0.8
+387,"Coffee Beans, Green",1.0,1.3
+388,"Coffee Beans, Roasted",1.0,0.5
+389,Coffee Chaff,1.0,0.58
+390,Coffee Creamer,1.0,0.58
+391,Coffee Regular,1.0,0.54463
+392,Coffee Whitener,1.0,0.11
+393,"Coffee, Dry Ground",1.0,0.24
+394,"Coffee, Flaked",1.0,0.52
+395,"Coffee, Ground",1.0,0.9
+396,"Coffee, Instant",1.0,0.9
+397,Coke Fines,1.0,0.71
+398,Coke Maze,1.0,0.84
+399,Colenuts (Crushed Soy Beans),1.0,0.560646
+400,Colloidal Clay,1.0,0.45
+401,Colored Sand,1.0,0.48
+402,Como Catalyst,1.0,0.19
+403,Compost,1.0,0.4
+404,Compressible Sugar,1.0,0.9
+405,Concret,1.0,0.48
+406,Concrete Lasticizer,1.0,2.0
+407,Concrete Water Proofing Admixture,1.0,1.15
+408,Confectionery Sugar With 3% Corn Starch,1.0,0.46
+409,Converter Dust,1.0,0.84
+410,Cooked Bone,1.0,0.688794
+411,Cookie Crumbs,1.0,0.7
+412,Cookie Wafers,1.0,0.68
+413,Cookies,1.0,0.560646
+414,Copolymer 120,1.0,0.8
+415,Copolymer 120 (Ion Exchange Resin),1.0,0.24
+416,Copolymer 353-A (Ion Exchange Resin),1.0,0.59
+417,Copolymer Of Styrene And Isobutyl Acid Maleate,1.0,0.688794
+418,Copper Carbonate,1.0,0.83
+419,Copper Iodide,1.0,0.96
+420,Copper Oxide,1.0,0.34
+421,Copper Powder,1.0,0.53
+422,Coriander,1.0,0.53
+423,Corn,1.0,0.26
+424,"Corn Bran, Fine Grind",1.0,0.61
+425,Corn Bread Meal,1.0,0.64
+426,Corn Feed,1.0,1.6
+427,Corn Flaking Grits,1.0,0.99
+428,Corn Flour,1.0,0.74
+429,Corn Glutten Feed,1.0,0.42
+430,Corn Grits,1.0,0.38
+431,Corn Kernels,1.0,0.48
+432,Corn Meal,1.0,0.64
+433,Corn Meal Flour,1.0,0.82
+434,Corn Meal Mix,1.0,0.64
+435,Corn Silk Powder,1.0,0.51
+436,Corn Starch,1.0,0.58
+437,Corn Starch,1.0,0.77
+438,Corn Starch,1.0,0.62
+439,Corn Starch (Refined From Waxy Corn),1.0,0.83
+440,Corn Syrup Solids,1.0,0.688794
+441,"Corn, Large Kernal",1.0,0.12
+442,Cornstoner,1.0,0.74
+443,Cotton Flock,1.0,0.66
+444,Cotton Seed Hulls,1.0,0.51
+445,Cottonseed Protein,1.0,1.06
+446,Cracked Black Pepper Blend,1.0,0.19
+447,Cracked Corn,1.0,0.38
+448,Cracked Pop Corn,1.0,0.320369
+449,Cracker Crumbs,1.0,0.45
+450,Cracker Meal,1.0,0.54463
+451,Cranberry Pulp,1.0,0.560646
+452,"Cranberry, Spinach, Carrot Blend",1.0,0.560646
+453,Cream Powder,1.0,0.62
+454,Creatine,1.0,0.35
+455,Creping Aid (Glue),1.0,0.64
+456,Crisped Rice,1.0,0.11
+457,Cristobalite,1.0,0.560646
+458,Crodamide Ebs Micobeads,1.0,0.8
+459,Crosslinked Copolymer,1.0,0.78
+460,Crude Blue,1.0,0.96
+461,Crude Blue (Pigment),1.0,0.8
+462,Crum Rubber,1.0,0.49
+463,Crush Cookies,1.0,0.61
+464,Crushed Crab Shell,1.0,0.5
+465,Crushed Malted Barley,1.0,0.52
+466,Crushed Rosin,1.0,0.560646
+467,Crushed Soy Beans,1.0,0.61
+468,Crystal Caustic,1.0,0.11
+469,Crystalline Sulfur,1.0,0.51
+470,Cumarone Indene Resin,1.0,0.58
+471,Cumin,1.0,0.8
+472,Cumin Seads,1.0,0.51
+473,"Cumin Seed, Pakistan",1.0,0.42
+474,Cupric Sulfate,1.0,0.51
+475,Cupric Sulfate Pentahydrate,1.0,0.37
+476,Cuprous Oxide,1.0,0.58
+477,Cutina C,1.0,0.62
+478,Cvc Resin Cake,1.0,0.64
+479,Decabromodiphenyl Oxide,1.0,0.78
+480,Dehydrated Banana Flakes,1.0,0.35
+481,Dehydrated Potatoes,1.0,0.38
+482,Dehydrated Soup,1.0,0.34
+483,Dehydrated Vegetables,1.0,0.67
+484,Dehyrated Whole Black Beans,1.0,0.48
+485,Demerara Sugar,1.0,0.82
+486,Densified Rice,1.0,0.320369
+487,Densified Rise (Rice Crispies),1.0,1.6
+488,Dental Casting Powder,1.0,0.96
+489,Dental Plaster (White),1.0,0.46
+490,Dental Powder,1.0,0.72
+491,Denture Cleaner,1.0,1.2
+492,Detergent,1.0,0.51
+493,Detergent Tailings,1.0,0.52
+494,Dextrin & Kaolin Clay,1.0,0.5
+495,Dextros,1.0,0.48
+496,Dextros Monohydrated,1.0,0.4
+497,Dextrose & Fine Salt,1.0,1.35
+498,Dextrose & Oil,1.0,0.54
+499,Dextrose Monohydrate,1.0,0.51
+500,Dextrose Sugar,1.0,0.85
+501,Diacalite (Diatomaceous Earth),1.0,0.43
+502,Diammonium Phosphate,1.0,0.43
+503,Diatomaceous Earth,1.0,0.58
+504,Dibromoneopentyl Glycol,1.0,0.36
+505,Dicalcium Phosphate Dihydrate,1.0,0.72
+506,Diced Peanuts,1.0,0.84
+507,Dichlorohenoxyacetic Acid,1.0,0.560646
+508,Dicyandiamide,1.0,0.83
+509,Die Stone,1.0,1.04
+510,Dimodan,1.0,1.04
+511,Dipentaerythritol,1.0,1.7
+512,Dipotassium Phosphate,1.0,1.03
+513,Disodium Phosphate,1.0,0.62
+514,Disodium Phosphate,1.0,0.72
+515,Disodium Sebacate,1.0,0.320369
+516,Distilled Monoglyceride,1.0,0.93
+517,Distilled Monoglyceride,1.0,0.83
+518,Dog Food,1.0,0.46
+519,Dog Food Regrained,1.0,0.74
+520,Dolomite (Raw),1.0,0.88
+521,Dolomitic Lime,1.0,0.62
+522,Dolomitic Limestone,1.0,0.688794
+523,Dough Mix,1.0,0.61
+524,Dried Algae,1.0,0.64
+525,Dried Alumina Gel Green Grains,1.0,0.68
+526,Dried Alumina Gel Green Pellets,1.0,0.560646
+527,Dried Bone & Meat Scraps,1.0,0.64
+528,Dried Brewers Yeast,1.0,0.560646
+529,Dried Calcuim Carbonate,1.0,0.560646
+530,Dried Carrots,1.0,0.560646
+531,"Dried Celery, Bell Peppers, Onions",1.0,0.42
+532,Dried Dairy Waste Product,1.0,0.46
+533,Dried Filter Plant Solids,1.0,0.99
+534,Dried Green Peppers,1.0,0.58
+535,Dried Horseradish Powder (Wasabi),1.0,0.7
+536,Dried Meat / Powder Protein,1.0,0.320369
+537,Dried Pelltized Bi-Mass,1.0,0.37
+538,Dried Pepper,1.0,0.42
+539,Dried Premium Cranberries,1.0,0.51
+540,Dried Skim Milk,1.0,0.71
+541,Dried Sludge,1.0,0.48
+542,Dried Smoked Yeast,1.0,0.78
+543,Dried Whole Whey Powder,1.0,0.53
+544,Dried Yeast,1.0,0.5
+545,Drimarene Turquoise Powder,1.0,0.560646
+546,"Drink Mix, Powdered",1.0,0.53
+547,Dry Batter Mix,1.0,0.64
+548,Dry Blend Animal Feed,1.0,0.58
+549,Dry Coffee,1.0,0.38
+550,Dry Concentrate Fertilizer,1.0,1.15
+551,Dry Foundry Silica Sand,1.0,0.560646
+552,Dry Milk,1.0,0.59
+553,Dry Milk Powder (Non-Fat),1.0,0.560646
+554,Dry Pulverized Chaff,1.0,0.74
+555,Dry Red Beans,1.0,0.560646
+556,Dry Salt,1.0,0.8
+557,Dry Sluge,1.0,0.5
+558,"Dry Slurry, Powdered Detergent",1.0,0.13
+559,"Dryed Celery, Bell Peppers, Onions",1.0,0.11
+560,Drying Powder,1.0,0.13
+561,Durum Semolina Flour,1.0,0.42
+562,Echinacea Root,1.0,1.28
+563,Eco Flurries,1.0,0.59
+564,Edta Acid,1.0,0.88
+565,Egg Bow Noddle,1.0,1.15
+566,Egg Flour,1.0,1.17
+567,Egg Noodle (1/16Wx2 1/2″ – 4″L),1.0,1.25
+568,Egg Powder,1.0,1.07
+569,Egg Shell Calcium,1.0,0.75
+570,Egg Shell Calcium,1.0,1.17
+571,Elbow Noodles,1.0,1.44
+572,Electrolytic Manganese Dioxide,1.0,1.6
+573,Encasulated Urea,1.0,0.68
+574,Entachlorohenal,1.0,0.45
+575,Entachlorohenal (Ermatox D-2),1.0,0.97
+576,Entylyn,1.0,0.66
+577,Epsom Salt,1.0,3.7
+578,Erucamide (Fatty Acid),1.0,0.72
+579,Erythromycin Base,1.0,0.53
+580,Erythromycin Base Dihydrate,1.0,0.560646
+581,Erythromycin Thiocyanate,1.0,0.51
+582,Ester (Similar To Fatty Acid),1.0,0.8
+583,Ethanox,1.0,0.67
+584,Ethocell Powder,1.0,0.82
+585,Ethylene-Vinyl Acetate (Eva),1.0,0.66
+586,Ethylene-Vinyl Acetate Copolymer Resin,1.0,0.560646
+587,Evaorated Salt,1.0,0.96
+588,Expanded Pelite,1.0,1.06
+589,Feed Grade Mini-Granular Zinc,1.0,0.86
+590,Ferric Citrate,1.0,0.8
+591,Ferric Phosphate,1.0,0.8
+592,Ferric Sulfate (Citco),1.0,0.45
+593,Ferrite Powder,1.0,0.64
+594,Ferromolybdenum Powder,1.0,0.27
+595,Ferrosilcon,1.0,0.99
+596,Ferrouis Sulfate Heptahydrate,1.0,0.78
+597,Ferrous Sulfate,1.0,0.66
+598,Ferrous Sulfate (Moist),1.0,1.04
+599,Ferrous Sulfate Heptahydrate,1.0,1.07
+600,Fertilizer,1.0,1.2
+601,Fertilizer (20-20-20) & (32-10-10),1.0,0.83
+602,Fiber,1.0,1.04
+603,Fiber Board,1.0,0.18
+604,Fiber Glass Strands,1.0,0.74
+605,Fiber Neet Resin,1.0,0.74
+606,Fiber Samples,1.0,1.28
+607,Fiberglass,1.0,1.28
+608,Fiberglass Reinforcements,1.0,1.8
+609,"Fiberglass, Chopped",1.0,0.77
+610,Filter Aid,1.0,1.04
+611,Filter Aid (Celite),1.0,1.6
+612,Filter Cake (Oat Bran),1.0,1.09
+613,Filter Powder,1.0,1.33
+614,Filter Press Cake,1.0,0.91
+615,Fine Flake Salt,1.0,0.64
+616,Fine Grog (Crushed Brick),1.0,0.67
+617,Fine Plastic Flakes (Milled Material),1.0,0.59
+618,Finished Detergent,1.0,0.48
+619,Fire Extinguishers Chemical,1.0,0.5
+620,Fish Food,1.0,0.58
+621,Fish Food Wafer,1.0,0.560646
+622,Fish Powder,1.0,0.64
+623,Flake Gelatin,1.0,0.64
+624,Flake Wood Carbon (Charcoal),1.0,0.61
+625,Flaked Potatoes,1.0,0.71
+626,Flaked Potatoes (Wet),1.0,0.48
+627,Flame Retardant,1.0,0.320369
+628,Flea Killer For Carpets,1.0,0.53
+629,Fledsar,1.0,0.48
+630,Flock (Poly),1.0,0.51
+631,Flocking,1.0,0.15
+632,Flour,1.0,0.62
+633,Flour (High Gluten),1.0,0.67
+634,Flour (Pancake Mix),1.0,0.6
+635,Flour Bedding,1.0,0.64
+636,Flour Breading,1.0,0.62
+637,Flour Mix,1.0,0.5
+638,Flour Salt,1.0,0.7
+639,Flourspar,1.0,0.48
+640,Fluorescent Powder,1.0,0.88
+641,Flux Calcined Diatomaceous Earth,1.0,0.53
+642,Fly Ash From Ulverized Coal And Bark,1.0,0.91
+643,Flyash,1.0,0.54
+644,Food Grade Resin Powder,1.0,4.81
+645,Food Grade Starch,1.0,0.61
+646,Foray,1.0,1.0
+647,Foundry Molding Sand,1.0,0.74
+648,Foundry Sand,1.0,1.2
+649,Fragrance Compound (Perfume),1.0,0.64
+650,Freeze Dried Beef Stew Mix,1.0,0.560646
+651,Freeze Dried Coffee Beans,1.0,0.93
+652,Freeze Dried Corn (Whole Kernal),1.0,0.78
+653,Freeze Dried Pineapple Juice,1.0,0.85
+654,French Fry Crumb,1.0,0.77
+655,French Fry Mix,1.0,0.86
+656,French Roast Whole Coffee Beans,1.0,0.88
+657,French Vanilla Coffee Creamer,1.0,0.75
+658,Frozen Brocoli,1.0,0.688794
+659,Frozen Cheese Tortellini,1.0,0.560646
+660,Frozen Mix Vegetable,1.0,0.68
+661,Frozen Oatmeal,1.0,0.560646
+662,Frozen Potato Wedges,1.0,0.8
+663,Frozen Potatoes,1.0,0.8
+664,Frozen Sausage,1.0,1.73
+665,Frozen Sausage,1.0,0.88
+666,Frozen Slice Apples,1.0,0.560646
+667,Fruit Fill,1.0,0.77
+668,Fumaric Acid,1.0,0.8
+669,Fumed Silica,1.0,0.4
+670,Fungicide,1.0,0.72
+671,Gamma Iron Oxide,1.0,0.43
+672,Gamma Iron Oxide (Ferrox),1.0,0.43
+673,Garlic,1.0,0.77
+674,Garlic Powder,1.0,0.7
+675,Garonite (Pourable Hydraulic Cement),1.0,1.55
+676,Garrageenan & Xanthan,1.0,1.44
+677,Gelatin,1.0,0.560646
+678,"Gelatin, Bone Remelt",1.0,0.59
+679,"Gelatin, Porkskin Blend",1.0,0.560646
+680,Geloy Resin Powder,1.0,0.35
+681,General Urose Henolk,1.0,0.65
+682,Gilsonite,1.0,0.51
+683,Glass Beads Solid Glass Spheres,1.0,1.3
+684,Glass Bubbles,1.0,0.64
+685,Glass Fibers,1.0,2.45
+686,Glass Filled Polypropylene,1.0,0.71
+687,"Glass Frit, Coarse",1.0,0.99
+688,"Glass Frit, Fine",1.0,0.560646
+689,Glass Powder,1.0,0.74
+690,Glaze Flavor,1.0,0.91
+691,Glitter Material,1.0,0.560646
+692,Gloss White Powder Coating,1.0,0.64
+693,Gloss White Powder Coating (Paint),1.0,2.4
+694,Glutamine,1.0,1.28
+695,Gluten,1.0,2.4
+696,Glyhosate Technical (Wet Cake),1.0,1.2
+697,Graham Cracker Crumbs,1.0,0.58
+698,Graham Crumbs,1.0,0.4
+699,Grahite,1.0,0.51
+700,Grahm Cracker Meal,1.0,0.83
+701,"Grand Gourmet Pre-Mix (90% Soya Flour, 10% Vitamins)",1.0,0.72
+702,Granola,1.0,0.75
+703,Granola Mix,1.0,0.72
+704,Granualted Cermaic Powder,1.0,0.27
+705,Granuated Sugar,1.0,0.27
+706,Granular Activated Carbon,1.0,0.54463
+707,Granular Carbon Activated,1.0,0.37
+708,Granular Carbon Black,1.0,0.77
+709,Granular Clay,1.0,0.37
+710,Granular Feed,1.0,0.37
+711,Granular Powder Coal,1.0,1.44
+712,Granular Roduct (Calcium Hohate),1.0,0.76
+713,Granular Root Zone,1.0,0.51
+714,Granulate Plastic,1.0,0.62
+715,Granulated Ceramic Powder,1.0,0.29
+716,Granulated Plastic,1.0,0.29
+717,Granulated Sugar,1.0,0.85
+718,Granulated Sugar With Additive (Brown),1.0,0.64
+719,Granulated Sugar With Additive (Pink),1.0,0.68
+720,Graphite,1.0,0.41
+721,Graphite (Not Synthetic),1.0,0.75
+722,Graphite Fiber Black,1.0,0.77
+723,"Graphite, Carbon Mix",1.0,0.72
+724,Grated Cheese,1.0,0.73
+725,Gravy Mix,1.0,0.74
+726,"Gravy, Biscuit",1.0,0.76
+727,"Gravy, Brown",1.0,0.65
+728,Gray Carbon Black,1.0,0.3
+729,Green Pepper (1/4″),1.0,0.72
+730,Green Split Peas,1.0,0.77
+731,Green Tea,1.0,0.85
+732,Greencake (Pigment),1.0,0.58
+733,Grinding Sludge,1.0,0.560646
+734,Grits (Pearl),1.0,0.14
+735,Groud Lime,1.0,0.11
+736,Ground Almonds,1.0,0.35
+737,Ground Cinnamon,1.0,0.57
+738,Ground Clay,1.0,1.22
+739,Ground Clay (Oil-Dri),1.0,0.58
+740,Ground Cloves,1.0,0.9
+741,Ground Coffee,1.0,0.66
+742,Ground Corn Cobb (1/8″),1.0,0.54463
+743,Ground Fiberglass,1.0,0.43
+744,Ground Graham,1.0,0.51
+745,Ground Gypsum Boards,1.0,2.55
+746,Ground Iron Ore,1.0,1.39
+747,Ground Lifesavers,1.0,0.37
+748,Ground Lime,1.0,0.4
+749,Ground Limestone,1.0,0.66
+750,Ground Marble,1.0,0.7
+751,Ground Melmack,1.0,0.7
+752,Ground Oat Hulls,1.0,0.67
+753,Ground Or Crack Wheat,1.0,0.560646
+754,Ground Oyster Shells,1.0,1.24
+755,Ground Parmesan Cheese,1.0,0.52
+756,Ground Plastics,1.0,0.72
+757,Ground Polyurethane,1.0,0.66
+758,Ground Potato Flakes,1.0,0.46
+759,Ground Rice,1.0,0.8
+760,Ground Rubber,1.0,0.62
+761,Ground Shale,1.0,0.62
+762,Ground Silica,1.0,0.48
+763,Ground Sodium Bora-Silicate,1.0,0.320369
+764,Ground Sulfur,1.0,0.54463
+765,Ground Tea Leaves,1.0,1.14
+766,Ground Up Tires,1.0,0.82
+767,Grout,1.0,0.72
+768,Guar Gum,1.0,0.38
+769,Guar Gum Powder,1.0,1.67
+770,Gum Base Pallets (Long Pallets),1.0,0.7
+771,Gum Colloid,1.0,0.74
+772,"Gum Premix (Guar Gum, Locust Bean Gum, Kappa Carragenan)",1.0,0.45
+773,Gummer Animal Glue,1.0,0.560646
+774,Gummisavers,1.0,0.96
+775,Gypsum,1.0,0.24
+776,Gypsum & Hydrated Lime Blend,1.0,1.76
+777,Gysum,1.0,0.96
+778,Hakuenka,1.0,0.96
+779,Hampster Bedding,1.0,0.4
+780,Hand Cleaner,1.0,0.59
+781,Hard Plastic,1.0,0.560646
+782,"Hazel Nuts, Peanuts, Almonds",1.0,0.560646
+783,Health Drink Power,1.0,0.560646
+784,Heat Treated Wheat Flour,1.0,0.48
+785,Heat-Dried Biosolids,1.0,0.37
+786,Heavy Layer,1.0,0.53
+787,Henolic Resin,1.0,0.27
+788,Hepes Free Acid,1.0,0.320369
+789,Herb & Butter Seasonings,1.0,0.77
+790,Herbal Blend,1.0,0.6
+791,Herbicide,1.0,0.29
+792,Hexamethylene Tetramine,1.0,0.52
+793,Hexamine,1.0,0.24
+794,Hiuric Acid,1.0,0.1
+795,Hog & Cattle Sulfa,1.0,0.95
+796,Hogs Hair,1.0,0.560646
+797,Humus,1.0,0.688794
+798,Hyddrated Sodium Tripolyphosphate,1.0,0.48
+799,Hydralumina,1.0,0.77
+800,Hydrated Alumina,1.0,0.48
+801,Hydrated Lime,1.0,0.93
+802,Hydrated Sodium Tripolyphosphate,1.0,1.43
+803,Hydrated Zeolite,1.0,1.92
+804,Hydro Balls Expanded Clay,1.0,0.08
+805,Hydrofol Acid,1.0,0.87
+806,Hydromethyl Aminomethan,1.0,0.75
+807,Hydroquinone,1.0,0.58
+808,Hydrous Aluminum Silicate,1.0,0.61
+809,Hydroxy Stearic Acid,1.0,0.48
+810,Hydroxyethyl Cellulose,1.0,0.320369
+811,Hydroxystearic Acid,1.0,0.6
+812,Hypaque,1.0,0.61
+813,Hysorb (Sodium Polyacrylate),1.0,0.77
+814,Ice Cream,1.0,1.07
+815,Ice Cream Powder (Chocolate),1.0,0.43
+816,Indigo Blue Dye,1.0,0.96
+817,Ink Powder,1.0,0.4
+818,Insect Control Dust,1.0,0.16
+819,Instant Coffee,1.0,2.4
+820,Instant Tea W/ Malto Dextron,1.0,0.62
+821,Instant Tea Wet Mix,1.0,0.54463
+822,Iodine Poly-Vinyl Pirrolidone,1.0,1.32
+823,Ion Exchange Resin,1.0,0.560646
+824,Iridescent Flakes,1.0,1.09
+825,Iron Oxide,1.0,0.26
+826,Iron Oxide (Black),1.0,0.560646
+827,Iron Oxide (Red),1.0,0.88
+828,"Iron Oxide (Red, Brown, & Black)",1.0,0.93
+829,Iron Oxide (Suerfine Alhahematite),1.0,0.24
+830,Iron Oxide (Yellow),1.0,0.66
+831,Iron Powder,1.0,0.560646
+832,"Iron Powder, Carbonyl Css",1.0,1.08
+833,"Iron Powder, Gray",1.0,0.52
+834,Iron Pyrites,1.0,0.61
+835,Iron Shot,1.0,0.61
+836,Iron Silicide,1.0,1.31
+837,Isohthalic,1.0,0.37
+838,Isolated Soy Protein,1.0,1.43
+839,Isomalt,1.0,0.9
+840,Italian Seasoning,1.0,0.96
+841,Japanese Bread Crumbs,1.0,0.03
+842,Kaolin Clay,1.0,0.8
+843,K-Carraggeenan,1.0,0.96
+844,Kibble Dry,1.0,1.19
+845,Kibble Wet,1.0,0.79
+846,Kidney Beans,1.0,0.72
+847,L – Tryptophan 97%,1.0,0.53
+848,Lacotse,1.0,0.45
+849,Lanthanom Oxide,1.0,0.72
+850,L-Arginine,1.0,0.5
+851,Latte Mix,1.0,0.8
+852,Laundry Detergent,1.0,0.72
+853,Laundry Detergent Dust,1.0,0.9
+854,Lead Chloride,1.0,0.560646
+855,Lead Chromated Pigment,1.0,0.38
+856,Lead Dust,1.0,0.76
+857,Lead Monoxide (Litharge),1.0,0.66
+858,Lead Oxide (Powdered & Pelletized),1.0,0.96
+859,"Lead Oxide, Granular",1.0,0.72
+860,Lemon Pepper Breading,1.0,0.560646
+861,Lentil Soup Mix,1.0,0.9
+862,Lentils Beans Soaked For 24 Hours,1.0,0.688794
+863,Lignite,1.0,0.38
+864,Lignosol,1.0,0.75
+865,Lime,1.0,0.86
+866,"Lime , Soda Ash, Glass Sand",1.0,0.64
+867,Lime Stone,1.0,0.64
+868,Lime White,1.0,0.75
+869,"Lime, Hydrated",1.0,0.96
+870,"Lime, Pulverized Quick",1.0,0.44
+871,Limestone,1.0,1.35
+872,Limestone (Calcium Carbonate),1.0,0.320369
+873,Limestone (Marble Chips),1.0,0.66
+874,Limestone Powder,1.0,0.61
+875,Lite Salt,1.0,0.62
+876,Litharge Lead Oxide,1.0,0.8
+877,Lithium Carbonate,1.0,0.96
+878,Lithium Iron Phosphate,1.0,0.13
+879,Lithium Potassium Carbonate Eutectic,1.0,0.31
+880,Lithogum,1.0,0.3
+881,Liver Powder,1.0,0.26
+882,Loose Biomass-Shredded Fiber,1.0,0.24
+883,Loose Facial Powder,1.0,0.24
+884,Macadama Nuts (No Shell),1.0,0.16
+885,Macadama Nuts (Chopped),1.0,0.8
+886,Mackamide Cma,1.0,1.31
+887,Magnesia,1.0,0.53
+888,Magnesium,1.0,0.320369
+889,Magnesium Carbonate,1.0,0.88
+890,Magnesium Chips,1.0,0.96
+891,Magnesium Chloride,1.0,0.28
+892,Magnesium Flakes,1.0,0.320369
+893,Magnesium Hydroxide Powder,1.0,0.43
+894,Magnesium Oxide,1.0,0.83
+895,Magnesium Silicate,1.0,0.88
+896,Magnesium Sulphate (Ground),1.0,0.61
+897,Magnesium Sulphate (Unground),1.0,0.62
+898,Magnesium Swarf,1.0,0.78
+899,Magnetic Iron Oxide,1.0,0.6
+900,Magnetite,1.0,0.48
+901,Magnetite Concentrate,1.0,0.82
+902,Maleic Anhydride,1.0,1.79
+903,Malfalda,1.0,0.560646
+904,Malic Acid,1.0,0.64
+905,Malt Mix,1.0,0.5
+906,Malted Barley (Partially Sprouted),1.0,0.35
+907,Malted Milk Powder,1.0,0.58
+908,Maltitol Nutriose Blend,1.0,0.48
+909,Malto – Dextrim,1.0,0.560646
+910,Maltrin,1.0,0.38
+911,Manganese,1.0,0.6
+912,Manganese Dioxide,1.0,1.39
+913,"Manganese Dioxide, Graphite, Potash Liquid Mix",1.0,1.03
+914,Manganese Powder,1.0,1.04
+915,Mannitol,1.0,0.96
+916,Marasperse,1.0,1.03
+917,Marbelwhite,1.0,0.88
+918,Marigold Seeds,1.0,0.88
+919,Marshmallow Mix,1.0,0.688794
+920,Marvinol,1.0,0.13
+921,Marvinol,1.0,1.19
+922,Meatloaf Spice,1.0,0.53
+923,Melamine,1.0,0.7
+924,Melamine Chemicals,1.0,0.67
+925,Melamine Powder,1.0,0.560646
+926,Melfluidide,1.0,0.7
+927,Meron Pellets,1.0,0.67
+928,Metallic Brake Ad Mix (Gray),1.0,1.04
+929,Methocel Cellulose Ether,1.0,1.12
+930,Methoxyphenylacetic,1.0,0.64
+931,Methyl Cellulose,1.0,0.96
+932,Methylanthraquinone,1.0,0.33
+933,Methyltin Mercatide Filter Cake,1.0,0.85
+934,Metrex,1.0,0.62
+935,Mevchem 140 (Resin),1.0,0.48
+936,Mica,1.0,0.46
+937,Micro Abrasives -25 Aluminum Oxide,1.0,1.12
+938,Micro Abrasives 9-25 Aluminum Oxide,1.0,0.8
+939,Micro Mx (Cattle Mineral Suplement),1.0,0.4
+940,Microcrystalline Cellulose,1.0,0.4
+941,Microcrystalline Wax,1.0,0.54463
+942,Microglass Fine Flake,1.0,0.59
+943,Micronized Calcium Carbonate,1.0,0.8
+944,Micronized Polyurethane Powder,1.0,0.13
+945,Microsized Salt,1.0,4.16
+946,Microsoy Flakes,1.0,0.85
+947,Micro-Spheres,1.0,0.06
+948,Midlings (Ground Copper Wire & Insulation),1.0,0.57
+949,Milk Powder,1.0,0.560646
+950,Milk Powder Based Feed,1.0,0.560646
+951,"Milk Powder, Non-Fat Dry",1.0,0.98
+952,"Milk Powder, Whole",1.0,0.5
+953,Milled Bread Crumbs,1.0,0.83
+954,Milled Fiberglass,1.0,0.96
+955,Milled Lime,1.0,0.72
+956,Milled Lime Dust,1.0,0.09
+957,Milled Monosodium Phosphate,1.0,0.59
+958,Minced Garlic,1.0,0.75
+959,Minex,1.0,0.46
+960,Miniature Chocolate Chips,1.0,0.5
+961,Mini-Tots,1.0,0.48
+962,Mint Tea,1.0,0.46
+963,Mircoessentials Powder,1.0,0.48
+964,Mixed Spices,1.0,0.5
+965,Modified Hydroxyethyl Cellulose,1.0,0.83
+966,Molybdenum,1.0,0.77
+967,Molybdenum Disulfide,1.0,2.24
+968,Molybdenum Sulphide,1.0,0.62
+969,Molysulfide,1.0,0.72
+970,Monocalcium Phophate Monohydrate,1.0,0.42
+971,Monootassium Phoshate,1.0,4.81
+972,Monosodium Glutamate,1.0,0.29
+973,Monosodium Phophate,1.0,0.29
+974,Morthane Ca-100,1.0,0.47
+975,Mozzarella Cheese,1.0,0.53
+976,Muffin Mix,1.0,0.7
+977,Mung Bean Starch,1.0,1.07
+978,Muriate Of Potash,1.0,1.17
+979,Mustard Flour,1.0,0.43
+980,Mustard Powder,1.0,1.01
+981,Mustard Seed,1.0,1.22
+982,Mystic White (Pool Filter Sand),1.0,0.21
+983,Nacho Cheese,1.0,0.64
+984,Nacho Seasoning,1.0,0.560646
+985,Nailax,1.0,0.66
+986,Natural Calcium Carbonate (Lime),1.0,0.560646
+987,Natural Vanilla,1.0,0.57
+988,Natural Zeolite,1.0,0.88
+989,Niacin,1.0,0.5
+990,Nickel Alloy Powder,1.0,4.81
+991,Nickel Cyclone Dust,1.0,0.4
+992,Nine Grain Blend,1.0,0.88
+993,Nitrobenzoic Acid,1.0,0.88
+994,No Bake Foundry Sand,1.0,0.72
+995,Non-Asbestos Brake Lining Powder,1.0,1.03
+996,Non-Dairy Creamer,1.0,0.74
+997,Non-Fat Dry Milk,1.0,0.5
+998,Noodle,1.0,0.93
+999,Novacite,1.0,0.5
+1000,Nutritional Powder,1.0,0.48
+1001,Nylon Insulation,1.0,0.13
+1002,Nylon Polyamide Fibers,1.0,0.44
+1003,Oak Pellets,1.0,0.53
+1004,Oak Saw Dust,1.0,0.4
+1005,Oat Bran,1.0,0.72
+1006,Oat Flour,1.0,0.78
+1007,Oat Grouts,1.0,0.86
+1008,Oatmeal & Rice Baby Ceral,1.0,0.98
+1009,Oats,1.0,0.96
+1010,Oil Dry,1.0,0.560646
+1011,Oil Saturated Clay,1.0,0.8
+1012,Oil Saturated Clay (Fines Fromoil Well Drilling Solids),1.0,0.9
+1013,Oil-Dri Fragrance,1.0,1.01
+1014,Oily Cake,1.0,0.46
+1015,Olyetyrene,1.0,2.0
+1016,Olymer Fibers,1.0,0.8
+1017,Onion Flakes,1.0,0.560646
+1018,Onion Powder,1.0,0.62
+1019,Onion Salt,1.0,0.61
+1020,Onyx,1.0,1.19
+1021,Orange Peel (Dried),1.0,0.5
+1022,Orcelain Enamel Frit,1.0,0.72
+1023,"Oregano, Whole Mexican, Greek Cut",1.0,0.11
+1024,Orgainic Whole Grain Flour,1.0,0.77
+1025,Organic Animal Feed,1.0,1.03
+1026,Organic Cane Sugar,1.0,0.59
+1027,Organic Fertilizer (Biosolids),1.0,0.88
+1028,Organic Spring Wheat Flour,1.0,0.88
+1029,Orzo,1.0,0.45
+1030,Otassium Acetate,1.0,0.4
+1031,Otassium Citrate,1.0,0.54463
+1032,Otassium Hydroxide,1.0,0.84
+1033,Pacake Premix (Originally Frozen),1.0,0.48
+1034,Pacific Chai (Vanilla) Drink Mix,1.0,0.64
+1035,Palm Oil Flakes,1.0,0.48
+1036,Pancake Mix,1.0,0.53
+1037,Pancake Premix,1.0,0.54463
+1038,Pancake Premix (Originally Frozen),1.0,0.35
+1039,Panodan,1.0,0.4
+1040,Paper,1.0,0.4
+1041,Paper Cellulose,1.0,0.4
+1042,Paper Dust,1.0,0.38
+1043,Paper Mache,1.0,0.34
+1044,Paratac,1.0,0.4
+1045,Parcream,1.0,0.42
+1046,Parmesan Cheese,1.0,0.64
+1047,Parmesan Starter Culture,1.0,0.8
+1048,Parsley,1.0,0.05
+1049,Parsley Flakes (Dry),1.0,1.6
+1050,Parsley Salt Blend,1.0,0.55
+1051,Pasta,1.0,1.6
+1052,Pasturized Grade A Whole Milk Powder,1.0,0.5
+1053,Peanut Butter Cookie,1.0,0.5
+1054,Peanut Butter Cracker Meal,1.0,0.24
+1055,Peanut Cake,1.0,0.48
+1056,Peanut Fines,1.0,1.52
+1057,Peanut Meal,1.0,3.36
+1058,"Peanuts, Whole Shelled, Raw",1.0,0.64
+1059,Peas (Quartered) Green,1.0,0.54463
+1060,Peat Moss,1.0,0.688794
+1061,Peat Moss With Coconut Fibers,1.0,0.67
+1062,Pecan Halves,1.0,0.7
+1063,Pecan Pieces,1.0,0.55
+1064,Pecans,1.0,0.72
+1065,Pectin,1.0,0.72
+1066,Pelletized Pvc Alloy,1.0,0.38
+1067,Pentaerythritol,1.0,0.54463
+1068,Peppercorns,1.0,0.53
+1069,Pepperoni Spice,1.0,0.3
+1070,Peptona De Caseina,1.0,0.75
+1071,Peralite (Sheetrock),1.0,0.61
+1072,Perlite (Sodium Potassium Alluminum Silicate),1.0,0.08
+1073,Perlite And Silicate Mix,1.0,0.45
+1074,Perlite Powder (Expanded),1.0,0.1
+1075,"Pet Food (Dried, Bone Shaped)",1.0,0.45
+1076,Petroleum Coke,1.0,0.46
+1077,Petroleum Coke Fines,1.0,0.59
+1078,Petroleum Coke Flour,1.0,2.88
+1079,"Pharmaceutical Powder, Unground",1.0,0.77
+1080,Pharmaceutical Starch,1.0,0.6
+1081,Phenolic Novolac Thermalsetting Molding Compound,1.0,0.98
+1082,Phtalic Anhydrite,1.0,0.86
+1083,"Pie Crust Mix (Bran Meal, Sugar, Shortening)",1.0,0.27
+1084,Pigment,1.0,0.37
+1085,Pigment (Red),1.0,0.4
+1086,"Pigment, Blue",1.0,0.58
+1087,"Pigment, Yellow",1.0,0.18
+1088,Pine Resin-Flaked,1.0,0.52
+1089,Pine Shavings With 5% Alpha Dry Paper Squares,1.0,0.48
+1090,Pinto Beans,1.0,0.66
+1091,"Pinto Beans, Whole Raw",1.0,0.7
+1092,Pistachio’S,1.0,0.66
+1093,Pizza Dough Mix,1.0,0.53
+1094,Pizza Dough Mix (Franchise Mix),1.0,0.76
+1095,Pizza Dough Mix (In House Sweet Dough),1.0,0.58
+1096,Plant Protein,1.0,0.22
+1097,Plaster,1.0,0.88
+1098,Plaster Powder,1.0,0.560646
+1099,"Plaster, Moulding",1.0,0.4
+1100,Plasterboard Dust,1.0,0.74
+1101,Plastic,1.0,0.58
+1102,Plastic Abrasive (With 30% Water),1.0,0.67
+1103,Plastic Beads,1.0,0.46
+1104,Plastic Cigar Tips,1.0,0.22
+1105,Plastic Crystals,1.0,0.52
+1106,Plastic Cubes,1.0,0.58
+1107,Plastic Film Chips,1.0,1.44
+1108,Plastic Flake,1.0,0.64
+1109,Plastic Pellet,1.0,0.91
+1110,Plastic Powder,1.0,0.8
+1111,Plastic Regrind,1.0,0.64
+1112,Plastic Regrind (.0105″),1.0,0.53
+1113,Plastic Regrind (.025″),1.0,0.48
+1114,Plastic Regrind (.025″),1.0,1.28
+1115,Plastic Resin Pellets,1.0,1.11
+1116,Plasticized Metallic Pellets,1.0,1.18
+1117,Plywood Adhesive Filler,1.0,0.6
+1118,Polishing Media,1.0,0.82
+1119,Poloxame,1.0,1.44
+1120,Poltethylene Glycol,1.0,0.72
+1121,Polyad Preblend,1.0,1.44
+1122,Polyalphamethystyrene,1.0,0.5
+1123,Polyblend,1.0,0.61
+1124,Polyehtylene Pellets & Mica Mixture,1.0,0.83
+1125,Polyester Flake,1.0,0.61
+1126,Polyester Flock,1.0,0.54463
+1127,Polyester Pellets,1.0,0.62
+1128,Polyester Powder,1.0,0.62
+1129,Polyester Resin Flake,1.0,0.9
+1130,Polyethlene / Carnauba Wax Blend,1.0,0.320369
+1131,Polyethylen Wax Homopolymer,1.0,0.91
+1132,Polyethylene,1.0,0.45
+1133,Polyethylene Glycol,1.0,0.46
+1134,Polyethylene Pellets,1.0,0.67
+1135,Polyethylene Pellets & Mica Mixture,1.0,0.72
+1136,Polyethylene Powder,1.0,0.48
+1137,Polyethylene Resin – 35 Mesh,1.0,0.57
+1138,Polyethylene Scrap,1.0,0.6
+1139,Polyolefin Powder,1.0,0.96
+1140,"Polypropolene, Pellet",1.0,1.6
+1141,Polypropylene,1.0,0.45
+1142,Polypropylene Flake,1.0,0.88
+1143,Polypropylene Homopolymer,1.0,0.58
+1144,Polypropylene Pellets,1.0,0.74
+1145,Polyramix (Salt) Waste,1.0,1.17
+1146,Polyster Chips,1.0,1.6
+1147,Polyster Flake,1.0,0.99
+1148,Polystrene Regrind Plastic,1.0,0.85
+1149,Polystyrene,1.0,0.93
+1150,Polystyrene Beads,1.0,0.7
+1151,Polystyrene Flakes,1.0,1.09
+1152,Polystyrene Pellet,1.0,1.49
+1153,Polystyrene Regrind Plastic,1.0,0.37
+1154,Polystyrene / Zinc Stearate Compound,1.0,1.04
+1155,Polytetrafluoroethylene (Ptfe) Powder,1.0,1.04
+1156,Polytetramethylene Terephthalate,1.0,0.58
+1157,Polyvinyl Alcohol,1.0,1.06
+1158,"Polyvinyl Chloride, Powder",1.0,0.8
+1159,Polyvinylidenfluoride,1.0,0.67
+1160,Pop Corn Meal,1.0,0.64
+1161,Pop Corn Meal & Cracked Pop Corn Mix (50/50),1.0,0.64
+1162,Popcorn (Popped),1.0,0.54463
+1163,Popcorn Kernels,1.0,0.560646
+1164,Popcorn Kernels (Soak In Water 48 Hours),1.0,0.62
+1165,Poppy Seed,1.0,0.54463
+1166,Porcelain Enamal,1.0,0.83
+1167,"Pork Rinds (Hot, Pork Skin)",1.0,0.8
+1168,Potassium Alumina Silcates,1.0,1.01
+1169,Potassium Bichromate,1.0,0.71
+1170,Potassium Carbonate,1.0,0.560646
+1171,Potassium Chloride,1.0,0.18
+1172,Potassium Chloride (Blended With 1.2% Cabosil),1.0,0.48
+1173,Potassium Humate,1.0,0.05
+1174,Potassium Nitrate,1.0,1.22
+1175,Potassium Permanganate,1.0,1.49
+1176,Potassium Sorbate,1.0,0.06
+1177,Potato,1.0,0.91
+1178,Potato Chips,1.0,0.5
+1179,Potato Flakes,1.0,0.61
+1180,Potato Flour,1.0,0.54463
+1181,Potato Pancake Mix,1.0,0.5
+1182,Potato Starch,1.0,0.26
+1183,Potato Starch Flake,1.0,0.5
+1184,Potato Starch Powder,1.0,0.51
+1185,Poultry,1.0,0.53
+1186,Poultry Bone Residue,1.0,0.8
+1187,Poultry Gravy,1.0,0.54
+1188,Poultry Seasoning,1.0,0.51
+1189,Powder Coating,1.0,0.55
+1190,Powder Pesticide,1.0,0.78
+1191,"Powder Salt Mix, Flavoring,Sodium Bicarbonate",1.0,0.99
+1192,Powdered Acrylic Resin,1.0,0.35
+1193,Powdered Activated Carbon,1.0,0.35
+1194,Powdered Alpha Gary Pvc,1.0,0.34
+1195,Powdered Brown Sugar,1.0,0.27
+1196,Powdered Candy Ingredients,1.0,0.64
+1197,Powdered Caramel Color,1.0,0.48
+1198,Powdered Cellulose,1.0,0.74
+1199,Powdered Coke/Calcined,1.0,0.72
+1200,Powdered Dessert,1.0,0.64
+1201,Powdered Egg White,1.0,0.72
+1202,Powdered Fabric Softener,1.0,0.45
+1203,Powdered Laundry Detergent,1.0,0.320369
+1204,Powdered Metal,1.0,0.76
+1205,Powdered Paint,1.0,0.8
+1206,Powdered Salt,1.0,0.5
+1207,Powdered Soybean Lecithin,1.0,0.64
+1208,Powdered Steel,1.0,0.560646
+1209,Powdered Sugar,1.0,0.72
+1210,Powdered Sugar (3% Starch),1.0,0.74
+1211,Powdered Sugar With 3% Corn Starch,1.0,0.7
+1212,Preblend Tortilla,1.0,0.51
+1213,Precipitated Silica,1.0,0.48
+1214,Premium Hardwood Pellets Fuel,1.0,1.04
+1215,Premium Wood Pellets Fuel,1.0,0.88
+1216,Promazine Granules,1.0,0.62
+1217,Propyl Paraben,1.0,0.43
+1218,Protein,1.0,0.560646
+1219,"Protein Drink Mix – Whey, Sweetener, Nutrients",1.0,0.38
+1220,"Protein Drink Mixes (Vanilla, Chocolate)",1.0,0.43
+1221,Protein Mix (French Vanilla),1.0,0.43
+1222,Protein Powder,1.0,0.560646
+1223,Protient,1.0,0.64
+1224,Pulp Dust,1.0,1.17
+1225,Pulverized Limestone,1.0,0.19
+1226,"Quarternary Amines, Dried Product",1.0,0.320369
+1227,Quick Oat,1.0,0.43
+1228,Quicklime (Ca0),1.0,0.58
+1229,Quick-Solid Absorbant (Sodium Polyacrylate),1.0,0.67
+1230,Quiona,1.0,0.59
+1231,Raisins & Dates,1.0,0.66
+1232,Ranch Seasoning,1.0,0.560646
+1233,Rasins,1.0,0.560646
+1234,Rat Feed (1/4″ H X 1/2″ W X 1″ L),1.0,0.560646
+1235,Raw Cellulose,1.0,0.8
+1236,Raw Cement,1.0,0.66
+1237,Raw Plastic Flakes,1.0,1.11
+1238,Rawhide & Starch Blend,1.0,0.48
+1239,Reclaim Waste Cement,1.0,0.05
+1240,Recycled Acrylic,1.0,0.5
+1241,Recycled Tire Rubber,1.0,0.560646
+1242,Red Cedar,1.0,0.58
+1243,Red Iron Oxide,1.0,0.66
+1244,Red Pepper (3/8″),1.0,0.58
+1245,Red Peppermint Flakes,1.0,0.560646
+1246,Red Skinned Peanuts,1.0,1.52
+1247,Reground Polyethylene,1.0,0.76
+1248,Rennet Casin,1.0,0.560646
+1249,Resi-Flake,1.0,1.04
+1250,Resi-Flake And Phenoli Resin,1.0,0.51
+1251,Resimene,1.0,0.82
+1252,Resin,1.0,0.16
+1253,Rice Crispies,1.0,1.44
+1254,Rice Crispy Treat Cereal,1.0,0.5
+1255,Rice Flour,1.0,1.12
+1256,Rice Hull Ash,1.0,0.99
+1257,Rice Hulls,1.0,1.11
+1258,"Rice Hulls, Dry",1.0,0.78
+1259,"Rice Hulls, Wet",1.0,1.07
+1260,Rice Hulls/Limstone,1.0,1.2
+1261,Rice Short Grain,1.0,0.688794
+1262,Roast Chicken Seasoning For Rice,1.0,0.24
+1263,Roasted Coffee Beans,1.0,0.54463
+1264,Roasted Coffee Beans Whole,1.0,0.13
+1265,Roasted Garlic And Herb,1.0,2.0
+1266,Roasted Peanuts,1.0,0.96
+1267,Roasted Soy Beans,1.0,0.16
+1268,Roasted Whole Bean Coffee,1.0,0.64
+1269,Roasting Seasoning,1.0,0.46
+1270,Rock Salt,1.0,0.560646
+1271,Roduct Fines,1.0,0.74
+1272,Rolled Corn,1.0,0.51
+1273,Rolled Oats (Thick),1.0,0.560646
+1274,Roofing Granules,1.0,0.7
+1275,Rooibos Dried Tea,1.0,1.11
+1276,Rosemary Seasoning,1.0,0.78
+1277,Rosin,1.0,0.83
+1278,Rubber,1.0,0.8
+1279,Rubber (Ground Tires),1.0,0.74
+1280,Rubber Buffings,1.0,0.61
+1281,Rubber Flake,1.0,0.6
+1282,Rubber Powder,1.0,0.54463
+1283,"Rubber, Ground",1.0,0.06
+1284,"Rubber, Nitrile (Baker Rubber)",1.0,0.24
+1285,Rug And Room Deoderant,1.0,1.11
+1286,Rye Flour,1.0,1.43
+1287,Saccharin Sodium,1.0,0.83
+1288,Salt,1.0,0.58
+1289,Salt & Milk Powder Mix,1.0,0.67
+1290,Salt & Vinager Seasoning Mix,1.0,0.66
+1291,Salt (Fine),1.0,1.09
+1292,Salt (Medical Grade),1.0,1.36
+1293,Salt (Modern Cure-Pink),1.0,1.09
+1294,Salt (Sodium Chloride),1.0,0.93
+1295,Salt And Calcium Chloride Mixture,1.0,0.93
+1296,Salt Blend (Salt And Sucrose),1.0,0.96
+1297,Salt Brine,1.0,1.23
+1298,Salt Granulated General Purpose,1.0,0.96
+1299,Salt Marination With Shortening,1.0,0.48
+1300,"Salt, Evaporated, Granulated",1.0,1.35
+1301,"Salt, Ground",1.0,1.39
+1302,"Salt, Microsized",1.0,1.28
+1303,"Salt, Prepared Flour",1.0,1.52
+1304,Salt/Seasoning Mixture,1.0,1.36
+1305,Salted Caramel Almonds,1.0,0.9
+1306,Salt-Granulated General Purpose,1.0,0.64
+1307,Sand & Shale Mix,1.0,0.75
+1308,Sand Additives,1.0,0.7
+1309,Sandstone With Granite A,1.0,0.29
+1310,Sandy Seasoning,1.0,0.67
+1311,Santonox,1.0,0.64
+1312,Satintone Clay,1.0,0.35
+1313,Sawdust,1.0,1.13
+1314,Scheelite Ground Ore,1.0,0.48
+1315,Scrap Metal,1.0,0.4
+1316,Sea Coal,1.0,0.68
+1317,Seafood Scampi Preblend,1.0,0.58
+1318,Seasoning For Rice-A-Roni,1.0,0.72
+1319,Seasoning Salt,1.0,0.5
+1320,Seasonings,1.0,0.5
+1321,Seasonings (Pizza),1.0,0.64
+1322,Seaweed Powder,1.0,0.64
+1323,Sebacic Acid,1.0,0.560646
+1324,Sebacoc Acid,1.0,0.64
+1325,Seldane,1.0,0.8
+1326,Sequestrene,1.0,0.66
+1327,Sesame,1.0,0.560646
+1328,Sesame Flour,1.0,0.8
+1329,Sesame Seed,1.0,0.560646
+1330,Shellac,1.0,0.560646
+1331,Shiitake,1.0,0.91
+1332,Shorting Powder,1.0,0.46
+1333,Shredded Beef Jerkey,1.0,0.560646
+1334,Shredded Foam Polystyrene,1.0,0.51
+1335,Shredded Olar Chips,1.0,0.24
+1336,Sika Grout,1.0,3.52
+1337,Silcon Carbide,1.0,0.72
+1338,Silcon Metal,1.0,0.64
+1339,Silica,1.0,0.24
+1340,Silica Flour,1.0,4.81
+1341,Silica Gel,1.0,2.24
+1342,Silica Microballoons,1.0,0.29
+1343,Silica Sand,1.0,0.74
+1344,Silica Smoke,1.0,0.88
+1345,"Silica, Fumed (Degussa Aerosil R972)",1.0,0.83
+1346,Silicate Powder,1.0,0.5
+1347,Silicates,1.0,0.77
+1348,Silico Aluminates Mix,1.0,0.83
+1349,Silicon Carbide,1.0,0.72
+1350,Silicon Dioxide,1.0,0.22
+1351,Silicon Dioxide Amorphnos,1.0,0.51
+1352,Silicon Metal,1.0,0.54
+1353,Silicone Powder,1.0,0.6
+1354,Siliconized Monoammonium Hoshate,1.0,0.66
+1355,Skim Milk,1.0,0.86
+1356,Sliced Almonds,1.0,0.8
+1357,Slimicide,1.0,0.8
+1358,Sludge,1.0,0.7
+1359,Sludge From A Rotary Filter,1.0,0.86
+1360,Snowflake Crystals,1.0,0.82
+1361,Snuff,1.0,1.03
+1362,Soap Flakes,1.0,0.64
+1363,Soap Noodles,1.0,0.560646
+1364,Soap Powder,1.0,0.54463
+1365,Soda Ash (Sodium Carbonate),1.0,0.42
+1366,Sodasorb,1.0,0.560646
+1367,Sodiium Tripolyphosphate,1.0,0.37
+1368,Sodim Ercarbonate,1.0,0.64
+1369,Sodium Alumino Silcate,1.0,0.4
+1370,Sodium Benzoate,1.0,0.37
+1371,Sodium Bicarbinate,1.0,0.5
+1372,Sodium Bisulfate,1.0,1.05
+1373,Sodium Bromide Biocide,1.0,0.72
+1374,Sodium Carbonate,1.0,0.43
+1375,Sodium Caseinate,1.0,0.18
+1376,Sodium Chloride,1.0,0.48
+1377,Sodium Chloride ( Salt),1.0,0.45
+1378,Sodium Chloride (Pink Salt),1.0,1.11
+1379,"Sodium Chloride, De-Icer",1.0,0.64
+1380,Sodium Citrate,1.0,0.53
+1381,Sodium Citrate (Citric Acid),1.0,0.64
+1382,Sodium Cmc (Sodium Carboxymethyl Cellulose,1.0,1.14
+1383,Sodium Cyclamate,1.0,0.72
+1384,Sodium Ercarbonate,1.0,0.85
+1385,Sodium Hexametaphosphate,1.0,0.58
+1386,Sodium Lasalocid,1.0,0.96
+1387,Sodium Lasalocid (Animal Antibiotic),1.0,0.7
+1388,Sodium Metabisulfate,1.0,0.38
+1389,Sodium Metabisulfite,1.0,0.82
+1390,Sodium Monochloroacetate,1.0,0.95
+1391,Sodium Nitrite,1.0,0.44
+1392,Sodium Novobiocin,1.0,0.58
+1393,Sodium Phophate Monobasic,1.0,0.64
+1394,Sodium Phosphate Diabasic,1.0,0.64
+1395,Sodium Silicate,1.0,0.58
+1396,Sodium Silico,1.0,0.560646
+1397,Sodium Solico Aluminate,1.0,0.38
+1398,Sodium Stearate,1.0,0.688794
+1399,Sodium Stearate,1.0,0.68
+1400,Sodium Stearoyl,1.0,0.79
+1401,Sodium Sulfamethazine,1.0,0.5
+1402,Sodium Sulfate,1.0,0.54463
+1403,Sodium Sulphate Salt,1.0,0.42
+1404,"Sodium Sulphate, Anhydrous",1.0,0.48
+1405,Sodium Teraborate Pentahydrate,1.0,0.67
+1406,Sodium Thiosulfate,1.0,0.67
+1407,Sodium Thiosylfate (Hypo),1.0,0.7
+1408,Sodium Trichloroyridino,1.0,0.67
+1409,Sodium Trimetaphosphate,1.0,0.7
+1410,Sodium Trioly Hoshate,1.0,0.31
+1411,Sodium Tripoly Phosphate,1.0,0.61
+1412,"Sodium, Perborate Tetrahydrate",1.0,0.560646
+1413,Softener Fines,1.0,0.7
+1414,Soldium Lasalocid (Animal Antibiotic),1.0,0.1
+1415,Solid Epoxy,1.0,0.53
+1416,Solid Plastic Resin,1.0,0.320369
+1417,Solid Resin Flakes,1.0,0.67
+1418,Sorbacal,1.0,0.88
+1419,Sorbitol (Powder),1.0,0.72
+1420,Soup Base,1.0,0.560646
+1421,Soup Mix 13 Bean,1.0,1.92
+1422,Soup Mix With Noodles,1.0,1.92
+1423,"Soup Mix, Potato",1.0,0.51
+1424,Sour Cream Powder,1.0,0.67
+1425,Soy Bean Hulls (Chopped),1.0,0.62
+1426,Soy Bean Mill,1.0,0.35
+1427,Soy Flour Chunk,1.0,0.16
+1428,Soy Nuts,1.0,0.4
+1429,Soy Nuts,1.0,0.64
+1430,Soy Oil Beads (Prills),1.0,0.72
+1431,Soy Protein With Lecithin,1.0,0.62
+1432,Soya Flour,1.0,0.5
+1433,Soyisolate (Soy Powder),1.0,0.77
+1434,Spaghetti,1.0,0.74
+1435,Spandex (Polyurethane),1.0,0.688794
+1436,Spanish Flavorings Seasonings,1.0,0.36
+1437,Spectinomycin Sulfate,1.0,0.99
+1438,Spent Clay,1.0,0.63
+1439,Spent Coffee Grounds,1.0,0.93
+1440,Spent Grain,1.0,0.64
+1441,Sponge Iron,1.0,1.59
+1442,Spray Dried Clay Powder,1.0,0.44
+1443,Sprayable Concrete Mix,1.0,0.59
+1444,Stainless Steel Shot,1.0,0.68
+1445,Starch (Corn),1.0,0.6
+1446,Starch (Pregelatnized),1.0,0.74
+1447,Starch (Stadex),1.0,0.61
+1448,"Starch, Cabosil, Ibuprofen",1.0,0.54
+1449,"Starch, Gluten, Germ, Fiber Mixture",1.0,0.38
+1450,"Starch, Modified Industrial",1.0,0.76
+1451,"Starch, Moulding",1.0,0.72
+1452,"Starch, Potato",1.0,0.64
+1453,"Starch, Wheat",1.0,0.72
+1454,Steamed Bone Meal,1.0,0.28
+1455,"Steatite (85% Talc, 5% Kaolin, 10% Feldsar)",1.0,0.49
+1456,"Steel Fibers, Chopped",1.0,0.53
+1457,"Steel Shot, 3/8″",1.0,0.74
+1458,Steel Wool,1.0,0.23
+1459,Steel Wool Fibers,1.0,0.6
+1460,Steric Acid,1.0,1.15
+1461,Stigmasterol (Steroid),1.0,0.97
+1462,Stone Aggregate 3/16″,1.0,0.54
+1463,Stones,1.0,0.36
+1464,Strawberry Protein Powder,1.0,0.82
+1465,Strawberry Sprinkles,1.0,1.05
+1466,Styrene,1.0,0.49
+1467,Styrene Acrylic Polymer,1.0,0.560646
+1468,Styrene Maleic Anhydride Resin,1.0,0.93
+1469,Sudafed,1.0,0.62
+1470,Sugar,1.0,0.79
+1471,Sugar Beet Pulp,1.0,0.38
+1472,Sugar Blend,1.0,0.46
+1473,"Sugar, Granulated",1.0,0.688794
+1474,"Sugar, Light Brown",1.0,0.55
+1475,"Sugar, Powdered",1.0,0.57
+1476,"Sugar, White",1.0,1.23
+1477,Sugar / Salt / Frotex Mixture,1.0,0.98
+1478,Sugar / Sorbitol / Phosphate Mixture,1.0,0.05
+1479,Sugar-Gelatin Mix (92%-8%),1.0,0.35
+1480,Sulfanilic Acid,1.0,0.77
+1481,Sulfasan,1.0,0.320369
+1482,Sulfonic Acid,1.0,0.67
+1483,Sulfur,1.0,0.65
+1484,Sulfur Granulars,1.0,0.46
+1485,Sulfur Powder,1.0,2.43
+1486,Sulphur / Rubber Makers,1.0,0.8
+1487,Sumed Silica,1.0,0.43
+1488,Sumikathene G201,1.0,0.560646
+1489,Sunflour Seeds,1.0,0.72
+1490,"Sunflower Seeds, Salted & Roasted",1.0,0.45
+1491,Super White Cleanser,1.0,0.560646
+1492,Surlyn,1.0,0.52
+1493,Susta,1.0,0.6
+1494,Sweet Cake,1.0,0.31
+1495,Synthetic Amorhous Silicas Gels,1.0,0.560646
+1496,Synthetic Calcium Silcate,1.0,0.688794
+1497,Synthetic Gysum (Bucket),1.0,0.54
+1498,Synthetic Iron Oxide,1.0,0.62
+1499,Synthetic Plastic Pellets,1.0,0.62
+1500,Synthetic Rubber,1.0,0.63
+1501,Tabacco Dust,1.0,0.688794
+1502,Tabular Alumia,1.0,0.688794
+1503,Taco Seasoning,1.0,0.52
+1504,Talc,1.0,0.26
+1505,Talc & Nitohard Batch Mix,1.0,0.51
+1506,Talc Powder,1.0,0.63
+1507,"Talc, Hydrous Magnesium Silicate",1.0,0.47
+1508,"Talc, Magnesium Silicate",1.0,0.62
+1509,Talcum Powder,1.0,0.74
+1510,Tang Premix,1.0,0.73
+1511,Tangy Ranch Powder,1.0,0.1
+1512,Tapioca Starch (Binosol),1.0,0.72
+1513,Tartrazine Lake,1.0,0.67
+1514,Tasmar,1.0,0.62
+1515,Taurine,1.0,0.74
+1516,Tea,1.0,0.64
+1517,Tech Entaerythritol,1.0,0.688794
+1518,Techolymer Exm,1.0,0.51
+1519,Teflon Powder,1.0,0.5
+1520,"Terephtahlic Acid, Purified",1.0,0.59
+1521,Terphthalic Acid,1.0,0.87
+1522,Textured Vegtable Protein,1.0,0.33
+1523,Theic – Isocyanurate,1.0,1.44
+1524,Themoplastic Polymer,1.0,0.49
+1525,Theraffin Wax,1.0,0.560646
+1526,Thermbond,1.0,0.18
+1527,Thermo Polyurethane,1.0,0.53
+1528,Thermoplastic Polyolefin,1.0,0.45
+1529,Thermoplastic Polyurethane,1.0,0.64
+1530,Thermoplastic Rubber,1.0,0.688794
+1531,Tigercrete,1.0,0.688794
+1532,Tile Compound,1.0,0.36
+1533,Tin Flour,1.0,0.41
+1534,Tisand Rutile,1.0,1.26
+1535,Titanium Dioxide,1.0,0.36
+1536,Titanium Dioxide Titanox 2020,1.0,0.64
+1537,"Titanium Dioxide, Diatomaceous Earth Mixture",1.0,0.22
+1538,Toasted Orzo,1.0,0.48
+1539,Toatsted Coconut / Cornflake Crumb,1.0,0.62
+1540,Tobacco,1.0,0.320369
+1541,Tobacco Dust,1.0,0.65
+1542,Tobacco Products,1.0,0.88
+1543,Tobacoo,1.0,0.68
+1544,Toner,1.0,0.62
+1545,Tricalcium Phosphate,1.0,0.42
+1546,Trisodium Citrate,1.0,0.5
+1547,Trisodium Citrate Dihydrate,1.0,0.06
+1548,Tromethamine,1.0,0.74
+1549,Tubettini (Macaroni),1.0,0.55
+1550,Tungsten Oxide,1.0,1.61
+1551,Turf Builder -Oasis Bulk,1.0,1.64
+1552,"Turmeric, Paprika, Clove Mix",1.0,0.45
+1553,"Turmeric, Whole Alleppy",1.0,0.45
+1554,Ulverized Vinsol Resin,1.0,0.23
+1555,Umber Iron Oxide,1.0,0.62
+1556,Unimin Silica,1.0,0.24
+1557,Unitane (Cyanimid),1.0,0.83
+1558,Untreated Thermal Silica,1.0,0.94
+1559,Urea,1.0,0.86
+1560,Urea Formaldehyde,1.0,0.54463
+1561,Urea Granular,1.0,1.09
+1562,Urea Industrial (46% Nitrogen),1.0,0.91
+1563,"Urea, Fertilizer",1.0,0.86
+1564,"Urea, Gertilizer (Van Waters & Rogers)",1.0,1.28
+1565,Urethane And Salt Mix,1.0,0.67
+1566,Vagisil Powder,1.0,0.74
+1567,Vanadium Trioxide,1.0,1.12
+1568,Vanilla,1.0,0.64
+1569,Vanilla Beans Exhausted Wet,1.0,0.19
+1570,Vanilla Deryrated Marshmallows,1.0,0.19
+1571,Vanilla Frosting Bakery Mix,1.0,0.24
+1572,Vanillin,1.0,0.72
+1573,Vegetable Powder,1.0,0.91
+1574,Vermiculite (Magnesiuam Aluminosilicate),1.0,0.61
+1575,"Vermiculite, Steel Wool, Graphite Mixture",1.0,0.45
+1576,Versaro Fired Bavxite,1.0,1.12
+1577,Vinyl Powder,1.0,0.25
+1578,Vinyl Resin,1.0,0.560646
+1579,Virgin Aer And Mouse Food,1.0,0.65
+1580,Vitacel,1.0,0.29
+1581,Vitasul Fertilizer Grade (Cured),1.0,0.22
+1582,Vitreous Fiber,1.0,0.17
+1583,Vrllulose Acatate-Butyrate,1.0,0.83
+1584,Vulcanizate Rubber (Powder),1.0,0.4
+1585,Wallpaper Adhesive,1.0,5.06
+1586,Wasabi Powder,1.0,1.28
+1587,Washed Natural Sesame Seeds,1.0,1.6
+1588,Water Dispersible,1.0,0.54
+1589,Water Dispersible,1.0,0.6
+1590,"Water Softener Salt Pettets, 99.6% Pure Salt",1.0,0.45
+1591,Wax Beads,1.0,0.47
+1592,Wax Compound,1.0,0.61
+1593,Wax Granular,1.0,0.64
+1594,Wax Pearls,1.0,0.5
+1595,Welding Exhaust Dust,1.0,0.77
+1596,Western Bentonite 200,1.0,0.42
+1597,Wet Cellulose,1.0,1.83
+1598,Wet Corn,1.0,1.06
+1599,Wet Distillers Grain,1.0,0.27
+1600,Wet Gravel,1.0,0.78
+1601,Wheat Bran Fiber,1.0,0.62
+1602,Wheat Germ,1.0,0.48
+1603,Wheat Germ Epllets/Granules Mix,1.0,0.91
+1604,Wheat Germ Granuals (Defatted),1.0,0.94
+1605,Wheat Germ Pellets,1.0,0.688794
+1606,Wheat Germ Pellets/Granules Mix,1.0,0.6
+1607,Wheat Gluten,1.0,0.82
+1608,Wheat Paste,1.0,0.46
+1609,Wheat Roll,1.0,0.94
+1610,Wheat Starch,1.0,0.688794
+1611,Wheatfield,1.0,0.13
+1612,Whey (Hygroscopic),1.0,0.4
+1613,Whey (Protein) Powder,1.0,0.68
+1614,Whey Feed Supplement,1.0,0.53
+1615,Whey Powder,1.0,0.46
+1616,Whey Protein,1.0,0.42
+1617,Whey Protein Concentrate,1.0,0.77
+1618,"Whey, Lo-Lac Reduced Lactose",1.0,0.73
+1619,"Whey, Pellets",1.0,0.8
+1620,White Basmati Rice,1.0,0.19
+1621,White Cheddar Cheese Powder,1.0,0.77
+1622,White Flakes,1.0,0.54463
+1623,White Hulled Sesame Seeds,1.0,0.13
+1624,White Pepper,1.0,0.320369
+1625,White Plastic,1.0,1.35
+1626,White Powder,1.0,0.18
+1627,White Powder Resin,1.0,0.17
+1628,Whole Dry Halbenero Chili,1.0,0.68
+1629,Whole Graham,1.0,0.13
+1630,Whole Milk (Powder),1.0,0.63
+1631,Whole Oat,1.0,0.14
+1632,Whole Red Beans (Dehydrated),1.0,0.320369
+1633,Whole Walnuts,1.0,0.64
+1634,Wild Rice,1.0,0.96
+1635,Wild Rice Pancake Base,1.0,0.53
+1636,Wire Nuts,1.0,0.53
+1637,Wollastocoat,1.0,0.85
+1638,Wollastonite (Calcium Oxide),1.0,0.93
+1639,Wollastonite (Calcium Silicate),1.0,0.72
+1640,Wood Ash,1.0,0.94
+1641,Wood Chips,1.0,0.51
+1642,Wood Dust,1.0,0.55
+1643,Wood Fiber,1.0,0.64
+1644,Wood Fiber Black Laquor,1.0,0.58
+1645,Wood Flakes With Resin Owder,1.0,0.7
+1646,Wood Flour,1.0,0.58
+1647,Wood Flour And Asbestos,1.0,0.88
+1648,Wood Pellets,1.0,0.55
+1649,Wood Slivers,1.0,0.73
+1650,Wood Ul & Sodium Hydroxide-Calkali Cellulose,1.0,0.65
+1651,Wool Dust,1.0,0.54
+1652,Xanthan,1.0,0.7
+1653,Xanthum Gum,1.0,0.688794
+1654,Xenolite,1.0,0.65
+1655,Yeast,1.0,0.65
+1656,Yellotone Sulfur,1.0,0.64
+1657,Yellow Bread Crumbs,1.0,0.27
+1658,Yellow Cake,1.0,1.79
+1659,Yellow Dye,1.0,0.72
+1660,Yellow Igment (Dry Ress Cake),1.0,0.78
+1661,Yellow Igment (Wet),1.0,0.42
+1662,Yellow Paint Pigment,1.0,1.06
+1663,Yellow Pigment,1.0,0.7
+1664,Yellow Plastic Regrind,1.0,0.51
+1665,Yrolyzed Tire Char,1.0,0.78
+1666,Yuca (Cassaba) Mass,1.0,0.22
+1667,Yucca Powder,1.0,0.81
+1668,Zeolox,1.0,0.560646
+1669,Zinc Calcine,1.0,1.03
+1670,Zinc Diacrylate,1.0,0.320369
+1671,Zinc Dust,1.0,0.7
+1672,Zinc Methionine,1.0,0.71
+1673,Zinc Oxide,1.0,0.62
+1674,Zinc Oxide / Lead Oxide,1.0,0.91
+1675,"Zinc Oxide, H 55 Resin",1.0,2.19
+1676,Zinc Oxidic (Granules),1.0,0.68
+1677,Zinc Skims,1.0,0.58
+1678,Zinc Stearate,1.0,0.47
+1679,Zinc-Gor Maxi Granular,1.0,0.78
+1680,Zinc-Gor Owder,1.0,0.11
+1681,Zinconium Dioxide,1.0,0.96
+1682,Zircon,1.0,0.51
+1683,Zircon Flour,1.0,0.42
+1684,Zircumium Basic Carbonate,1.0,0.12
